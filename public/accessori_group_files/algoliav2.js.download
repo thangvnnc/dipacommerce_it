@@ -1,0 +1,157 @@
+$(function () {
+
+    var ktypenr = "";
+    var vehicleCookie = null;
+    var domain = window.location.origin.replace(/\/$/, "");
+
+    var client = algoliasearch(__ALGOLIA_SETTINGS__['applicationID'][__COUNTRY__ + __LANG__],
+        __ALGOLIA_SETTINGS__['searchApiKey'][__COUNTRY__ + __LANG__]);
+
+
+    if( $('#valkatypenr').length > 0 && $('#valkatypenr').val() != '') {
+        ktypenr = $('#valkatypenr').val();
+        var index = client.initIndex('prod_monoindex_' + __COUNTRY__ + __LANG__);
+    } else {
+        var index = client.initIndex('prod_suggest_' + __COUNTRY__ + __LANG__ );
+    }
+
+    function setSource(query, callback) {
+        // Need to clean useless options
+        var facet = '';
+        var restrict = '';
+        var hitsPerPage = 10;
+        var distinct = false;
+        switch (this.name) {
+            case 'categorie':
+                facet = 'categories.lvl2';
+                restrict = 'categories.lvl2';
+                distinct = 1;
+                break;
+            case 'marque':
+                facet = 'equipementier';
+                restrict = 'equipementier';
+                hitsPerPage = 1000;
+                distinct = 1;
+                break;
+            case 'produit':
+                facet = 'libelle';
+                restrict = 'categories.lvl2';
+                distinct = 1;
+                break;
+            default:
+                facet = 'categories.lvl0';
+                break;
+        }
+
+        index.search(query, {
+            hitsPerPage: hitsPerPage,
+            facets: facet,
+            optionalFilters: ['ktypenr:' + ktypenr],
+            distinct: distinct,
+            restrictSearchableAttributes: restrict,
+            typoTolerance: true
+        }).then(function (answer) {
+
+            var facetValue = Object.keys(answer.facets);
+
+            // Prevents duplicates
+            answer.hits = answer.hits.reduce(function (p, c) {
+                if (!p.some(function (el) {
+
+                    switch (facetValue[0]) {
+                        case 'categories.lvl2':
+                            return el._highlightResult.categories.lvl2.value === c._highlightResult.categories.lvl2.value;
+                            break;
+                        case 'equipementier':
+                            return el._highlightResult.equipementier.value === c._highlightResult.equipementier.value;
+                            break;
+                        case 'libelle':
+                            return el._highlightResult.libelle.value === c._highlightResult.libelle.value;
+                            break;
+                    }
+                }))
+                    p.push(c);
+                return p;
+            }, []);
+            callback(answer.hits);
+
+        }, function () {
+            callback([]);
+        });
+    }
+
+    autocomplete('#inputfield input',
+        {
+            hint: false,
+            debug: true
+        },
+        [
+            {
+                source: setSource,
+                displayKey: function (suggestion) {
+                    var regex = /(<([^>]+)>)/ig;
+                    return suggestion._highlightResult.categories.lvl2.value.split(' > ').pop().replace(regex, "");
+                },
+                name: 'categorie',
+                templates: {
+                    header: '<div class="h3">' + transCategories + '</div>',
+                    suggestion: function (suggestion) {
+                        // split the string to retrieve the last part (ex: Frein > Freinage > plaquette)
+                        suggestion = suggestion._highlightResult.categories.lvl2.value.split(' > ').pop();
+                        return '<span>' + suggestion + '</span>';
+                    }
+                }
+            },
+            {
+                source: setSource,
+                displayKey: 'equipementier',
+                name: 'marque',
+                templates: {
+                    header: '<div class="h3">' + transBrands + '</div>',
+                    suggestion: function (suggestion) {
+                        return '<span>' + suggestion._highlightResult.equipementier.value + '</span>'
+                    }
+                }
+            },
+            {
+                source: setSource,
+                displayKey: 'libelle',
+                name: 'produit',
+                templates: {
+                    header: '<div class="h3">' + transProducts + '</div>',
+                    suggestion: function (suggestion) {
+                        return '<span>' + suggestion._highlightResult.libelle.value + '</span>'
+                    }
+                }
+            }
+        ]).on('autocomplete:selected', function (event, suggestion, dataset) {
+
+        // Feeding Datalayer
+        dataLayer.push({
+            event: 'eventGA',
+            category: 'siteSearch',
+            action: 'autoSuggest',
+            label: dataset
+        });
+        var query = encodeURIComponent($('.aa-input').val());
+        // Remove last '/' if present
+        // Do redirect here
+        window.location.href = searchUrl +'?q=' + query + '&idx=prod_monoindex_' + __COUNTRY__ + __LANG__;
+    });
+
+    var inputKeyEnter = $('.aa-input');
+
+    inputKeyEnter.keypress(function (e) {
+        if (e.which == 13) {
+            var query = encodeURIComponent(inputKeyEnter.val());
+            window.location.href = searchUrl +'?q=' + query + '&idx=prod_monoindex_' + __COUNTRY__ + __LANG__;
+        }
+    });
+
+    var searchButton = $('#inputfield').find('.btn-default');
+
+    searchButton.click(function() {
+        var query = encodeURIComponent(inputKeyEnter.val());
+        window.location.href = searchUrl +'?q=' + query + '&idx=prod_monoindex_' + __COUNTRY__ + __LANG__
+    });
+});
