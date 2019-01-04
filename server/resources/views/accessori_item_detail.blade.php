@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!-- saved from url=(0097)https://www.dipacommerce.it/accessori-auto/tappo-universale-per-serbatoio_bg900013_a958721499.html -->
+<!-- saved from url=(0097)https://dipacommerce.it/accessori-auto/tappo-universale-per-serbatoio_bg900013_a958721499.html -->
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it-IT" xml:lang="it-IT"><!--<![endif]-->
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -39,15 +39,16 @@
     <!--[if gte IE 11]>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge"/> <![endif]-->
     <title>Tappo universale per serbatoio ALTIUM 721499 - Attrezzatura per soccorso stradale</title>
+    <link rel="stylesheet" href="public/1/font-awesome.min.css">
     <link rel="canonical"
-          href="https://www.dipacommerce.it/accessori-auto/tappo-universale-per-serbatoio_bg900013_a958721499.html">
+          href="https://dipacommerce.it/accessori-auto/tappo-universale-per-serbatoio_bg900013_a958721499.html">
     <link rel="alternate" media="only screen and (max-width: 640px)"
           href="https://m.dipacommerce.it/accessori-auto/tappo-universale-per-serbatoio_bg900013_a958721499.html">
     <meta name="robots" content="noindex,follow">
     <meta property="og:title"
           content="Attrezzatura per soccorso stradale ALTIUM 721499 - Attrezzatura per soccorso stradale">
     <meta property="og:url"
-          content="https://www.dipacommerce.it/accessori-auto/tappo-universale-per-serbatoio_bg900013_a958721499.html">
+          content="https://dipacommerce.it/accessori-auto/tappo-universale-per-serbatoio_bg900013_a958721499.html">
     <meta property="og:image"
           content="//media.cdn.dipacommerce.com/altium/attrezzatura-per-soccorso-stradale/210x200/958721499-5.jpg">
     <meta property="og:description"
@@ -82,8 +83,8 @@
           href="https://it-static.cdn.dipacommerce.com/img/commun/favicon/favicon-16x16.png">
     <link rel="mask-icon" href="https://it-static.cdn.dipacommerce.com/img/commun/favicon/safari-pinned-tab.svg"
           color="#E94F2D">
-    <meta name="apple-mobile-web-app-title" content="Mister Auto">
-    <meta name="application-name" content="Mister Auto">
+    <meta name="apple-mobile-web-app-title" content="Dipacommerce">
+    <meta name="application-name" content="Dipacommerce">
     <meta name="theme-color" content="#FFFFFF">
     <script>
         var __COUNTRY_FB__ = 'IT';
@@ -165,7 +166,7 @@
             "min-x-num": "Minimo %s cifre",
             "pi_invalide": "pi non valido",
             "cf_invalide": "Codice fiscale non valido",
-            "application.gdpr_info_plate": "I dati sopra riportati sono obbligatori e vengono elaborati da Mister Auto SAS per l'esecuzione del contratto e il tracciamento degli ordini. Vengono trasmessi ai fornitori di servizi che Mister Auto SAS utilizza per questo scopo, se necessario al di fuori dell'Unione Europea con adeguate garanzie legali che \u00e8 possibile ottenere all'indirizzo sotto indicato. Sono conservati per un massimo di 5 anni. <br \/>Puoi accedere, modificare, far valere il tuo diritto alla portabilit\u00e0, cancellare tutti i dati su di te, richiedere la limitazione del trattamento dei tuoi dati e opporti al trattamento dei tuoi dati contattandoci via posta a Mister Auto, Data Protection, 19 rue Alfred de Musset, 69100 Villeurbanne, Francia e via e-mail all'indirizzo <a style=\"color:#0572b7;\" href=\"mailto:dataprotection@mister-atuo.com\">dataprotection@dipacommerce.com<\/a>, a condizione che la richiesta non comporti l'impossibilit\u00e0 per Mister Auto SAS di adempiere ai propri obblighi legali o contrattuali. Hai anche il diritto di presentare un reclamo alle autorit\u00e0 competenti.",
+            "application.gdpr_info_plate": "I dati sopra riportati sono obbligatori e vengono elaborati da Dipacommerce SAS per l'esecuzione del contratto e il tracciamento degli ordini. Vengono trasmessi ai fornitori di servizi che Dipacommerce SAS utilizza per questo scopo, se necessario al di fuori dell'Unione Europea con adeguate garanzie legali che \u00e8 possibile ottenere all'indirizzo sotto indicato. Sono conservati per un massimo di 5 anni. <br \/>Puoi accedere, modificare, far valere il tuo diritto alla portabilit\u00e0, cancellare tutti i dati su di te, richiedere la limitazione del trattamento dei tuoi dati e opporti al trattamento dei tuoi dati contattandoci via posta a Dipacommerce, Data Protection, 19 rue Alfred de Musset, 69100 Villeurbanne, Francia e via e-mail all'indirizzo <a style=\"color:#0572b7;\" href=\"mailto:dataprotection@mister-atuo.com\">dataprotection@dipacommerce.com<\/a>, a condizione che la richiesta non comporti l'impossibilit\u00e0 per Dipacommerce SAS di adempiere ai propri obblighi legali o contrattuali. Hai anche il diritto di presentare un reclamo alle autorit\u00e0 competenti.",
             "arobase_interdit": "Carattere <i>@<\/i> vietato in questo campo"
         };
         -->
@@ -188,7 +189,7 @@
         var ktypenr = null;
         var __ESI_ENABLED__ = '1';
         var __PAGE_CACHED__ = '0';
-        var __BASEURI__ = 'https://www.dipacommerce.it/';
+        var __BASEURI__ = 'https://dipacommerce.it/';
         var __DOMAIN__ = 'dipacommerce.it';
         var __AJAX__ = '//www.dipacommerce.it/ajax/';
         var __COUNTRY__ = 'IT';
@@ -1377,15 +1378,15 @@
         </div>
         <div class="content header_padding">
             <script type="text/javascript">
-                var searchUrl = "https://www.dipacommerce.it/global_search2.html";
+                var searchUrl = "https://dipacommerce.it/global_search2.html";
                 var transCategories = "Categorie",
                     transBrands = "Produttore",
                     transProducts = "",
                     deleteButton = "";
             </script>
 
-            <a class="logo logo_IT" href="https://www.dipacommerce.it/" title="">
-                <img src="public/accessori_item_detail_files/logo-dipacommerce.svg" alt="Mister Auto" width="100">
+            <a class="logo logo_IT" href="https://dipacommerce.it/" title="">
+                <img src="public/accessori_item_detail_files/logo-dipacommerce.jpg" alt="Dipacommerce" width="80">
                 <!-- <span class="it">Lo specialista online dei ricambi auto</span> -->
             </a>
             <span class="logo_grp"></span>
@@ -1393,23 +1394,23 @@
 
                 <!-- logo moncompte -->
                 <div class="content-moncompte">
-                    <a class="h-moncompte" href="https://www.dipacommerce.it/mioconto/" rel="nofollow"
+                    <a class="h-moncompte" href="https://dipacommerce.it/mioconto/" rel="nofollow"
                        title="Il mio conto">
-                        <i class="mf mf-my-account" id="h_logo_moncompte"></i>
+                        <i class="fa fa-etsy"></i>
                     </a>
                     <span class="disp_b font_s14 h-title-logo">
-			<a class="" href="https://www.dipacommerce.it/mioconto/" rel="nofollow" title="Il mio conto">Il mio conto</a>
+			<a class="" href="https://dipacommerce.it/mioconto/" rel="nofollow" title="Il mio conto">Il mio conto</a>
 		</span>
                 </div>
                 <!-- logo panier -->
                 <div class="content-panier">
                     <a class="h-panier sqte pncpte cart_more" id="h_logo_panier"
-                       href="https://www.dipacommerce.it/carrello/" rel="nofollow" title="Il mio carrello">
-                        <i class="mf mf-shopping-cart2" id="l_logo_panier"><span id="quantitePanier"
+                       href="https://dipacommerce.it/carrello/" rel="nofollow" title="Il mio carrello">
+                        <i class="fa fa-etsy"><span id="quantitePanier"
                                                                                  class="disp_n">0</span></i>
                     </a>
                     <span class="disp_b font_s14 h-title-logo">
-			<a class="" href="https://www.dipacommerce.it/carrello/" rel="nofollow" title="Il mio carrello">Il mio carrello</a>
+			<a class="" href="https://dipacommerce.it/carrello/" rel="nofollow" title="Il mio carrello">Il mio carrello</a>
 		</span>
                 </div>
 
@@ -1499,7 +1500,7 @@
 
 
                         <form id="formsearchbox"
-                              action="https://www.dipacommerce.it/global_search2.html?it[marque][0]=audi" method="GET"
+                              action="https://dipacommerce.it/global_search2.html?it[marque][0]=audi" method="GET"
                               name="search_word_inc" autocomplete="off">
                             <div id="ff_search_box_vehicule" class="ff_search_box_vehicule float_l">
 
@@ -1529,8 +1530,7 @@
                                         </span>
                                     </span>
                                             <span class="input-group-btn" style="display:table-cell">
-                                        <button class="btn btn-default" type="submit"><i
-                                                class="mf mf-search"></i></button>
+                                        <button class="btn btn-default" type="submit"><i class="fa fa-etsy"></i></button>
                                     </span>
                                         </div>
 
@@ -1548,214 +1548,185 @@
     <div id="content_menu">
         <div id="menu">
             <ul class="menu_tab menu_left">
-                <li id="tab2_pieces_auto" class=" onglet_espace" style="z-index:6">
-                    <div class="menu_lir"><a class="" href="https://www.dipacommerce.it/ricambi-auto/"
-                                             title="Ricambi auto: compra un ricambio per tipo">Ricambi Auto<i
-                                class="mf mf-arrow-down"></i></a></div>
-                </li>
-                <li id="tab2_pneus" class=" onglet_espace" style="z-index:5">
-                    <div class="menu_lir"><a class="" href="https://www.dipacommerce.it/pneumatici/">Pneumatici</a></div>
-                </li>
-                <li id="tab2_chaines" class=" onglet_espace" style="z-index:4">
-                    <div class="menu_lir"><a class="" href="https://www.dipacommerce.it/catene-da-neve/">Catene da
-                            neve</a></div>
-                </li>
-                <li id="tab2_balais" class="" style="z-index:3">
-                    <div class="menu_lir"><a class="" href="https://www.dipacommerce.it/spazzola-tergicristallo_lg298/">Tergicristalli</a>
-                    </div>
-                </li>
-                <li id="tab2_huiles" class="" style="z-index:2">
-                    <div class="menu_lir"><a class="" href="https://www.dipacommerce.it/olio-motore_lg3224/"
-                                             title="Olio&lt;br /&gt;motore">Olio motore</a></div>
-                </li>
-                <li id="tab2_batteries" class="" style="z-index:9">
-                    <div class="menu_pastille">
-                        <div class="menu_pastille_new"></div>
-                    </div>
-                    <div class="menu_lir"><a class="" href="https://www.dipacommerce.it/batteria_lg3465/" rel="nofollow"
-                                             title="Batterie">Batterie</a></div>
-                </li>
-                <li id="tab2_autres_accessoires" class="" style="z-index:0">
-                    <div class="menu_lir"><a class="" href="https://www.dipacommerce.it/accessori-auto/"
-                                             title="Altri Accessori">Accessori auto</a></div>
-                </li>
+                @foreach($menus as $menu)
+                    @if($menu->type == 0)
+                        <li id="tab2_{{$menu->id}}" class=" onglet_espace" style="z-index:6">
+                            <div class="menu_lir"><a class="" href="/{{$menu->link}}">{{$menu->name}} <i class="fa fa-caret-down" aria-hidden="true"></i></a></div>
+                        </li>
+                    @else
+                        <li id="tab2_{{$menu->id}}" class=" onglet_espace" style="z-index:6">
+                            <div class="menu_lir"><a class="" href="/{{$menu->link}}">{{$menu->name}}</a></div>
+                        </li>
+                    @endif
+                @endforeach
+
             </ul>
             <div id="sub_menu" class="txt_wrap TopCat">
-                <div class="tooltip tab2_pieces_auto">
-                    <div class="sub_menu  cleared">
-                        <div id="menu_top" class="sub_menu_col smc_pa" style="color:#4a80c4">
-                            <p class="titre" style="border-color:#4a80c4">
-                                <i class="mf mf-winter"></i> Migliori prodotti invernali </p>
-                            <ul>
-                                <li class="default"><i class="mf mf-outils"></i><a
-                                        href="https://www.dipacommerce.it/accessori-auto/" title="">Accessori auto</a>
-                                </li>
-                                <li class="default"><i class="mf mf-gen_298"></i><a
-                                        href="https://www.dipacommerce.it/spazzola-tergicristallo_lg298/" title="">Tergicristalli</a>
-                                </li>
-                                <li class="default"><i class="mf mf-gen_900005"></i><a
-                                        href="https://www.dipacommerce.it/freni-a-disco_lf56/" title="">Pastiglie e
-                                        dischi</a></li>
-                                <li class="default"><i class="mf mf-pneus"></i><a
-                                        href="https://www.dipacommerce.it/pneumatici/" title="">Pneumatici</a></li>
-                                <li class="default"><i class="mf mf-gen_3465"></i><a
-                                        href="https://www.dipacommerce.it/batteria_lg3465/" title="">Batteria auto</a>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li><i class="mf mf-gen_90078"></i><a href="https://www.dipacommerce.it/catene-da-neve/"
-                                                                      title="" style="color:#4a80c4">Catene da neve</a>
-                                </li>
-                                <li><i class="mf mf-gen_243"></i><a href="https://www.dipacommerce.it/candeletta_lg243/"
-                                                                    title="" style="color:#4a80c4">Candelette</a></li>
-                                <li><i class="mf mf-gen_686"></i><a
-                                        href="https://www.dipacommerce.it/candela-accensione_lg686/" title=""
-                                        style="color:#4a80c4">Candele</a></li>
-                            </ul>
-                        </div>
-                        <div class="sub_menu_col smc_pa">
-                            <ul class="sub_menu_l1">
-                                <li><span><i class="mf mf-cat_10"></i><a href="https://www.dipacommerce.it/freni_lc10/"
-                                                                         title="">Freni</a></span>
-                                    <ul class="sub_menu_l2">
-                                        <li><span><a href="https://www.dipacommerce.it/pastiglie-freno_lg900005/"
-                                                     title="">Pastiglie freno</a></span></li>
-                                        <li><span><a href="https://www.dipacommerce.it/dischi-freno-anteriori_lg900007/"
-                                                     title="">Dischi freno</a></span></li>
-                                        <li><span><a href="https://www.dipacommerce.it/pinza-freno_lg78/" title="">Pinza freno</a></span>
+                @foreach($menus as $menu)
+                    @if($menu->type == 0)
+                        <div class="tooltip tab2_pieces_auto tab2_{{$menu->id}}">
+                            <div class="sub_menu  cleared">
+                                <div id="menu_top" class="sub_menu_col smc_pa" style="color:#4a80c4">
+                                    <p class="titre" style="border-color:#4a80c4">
+                                        <i class="fa fa-etsy"></i> Migliori prodotti invernali </p>
+                                    <ul>
+                                        <li class="default"><i class="fa fa-etsy"></i><a
+                                                href="https://dipacommerce.it/accessori-auto/" title="">Accessori auto</a>
                                         </li>
-                                        <li><span><a href="https://www.dipacommerce.it/kit-freni-a-tamburo_lg3859/"
-                                                     title="">Kit freni a tamburo</a></span></li>
-                                    </ul>
-                                </li>
-                                <li><span><i class="mf mf-suspensions"></i><a
-                                            href="https://www.dipacommerce.it/ammortizzatori-sospensione_lf69/" title="">Sospensioni</a> / <a
-                                            href="https://www.dipacommerce.it/sterzo_lf71/" title="">Sterzo</a></span>
-                                    <ul class="sub_menu_l2">
-                                        <li><span><a
-                                                    href="https://www.dipacommerce.it/ammortizzatore-anteriore_lg900001/"
-                                                    title="">Ammortizzatori</a></span></li>
-                                        <li><span><a href="https://www.dipacommerce.it/barra-stabilizzatrice_lg3229/"
-                                                     title="">Barra stabilizzatrice</a></span></li>
-                                        <li><span><a href="https://www.dipacommerce.it/braccio-oscillante_lg273/"
-                                                     title="">Braccio oscillante</a></span></li>
-                                        <li><span><a href="https://www.dipacommerce.it/cuscinetto-ruota_lg654/" title="">Cuscinetto ruota</a></span>
+                                        <li class="default"><i class="fa fa-etsy"></i><a
+                                                href="https://dipacommerce.it/spazzola-tergicristallo_lg298/" title="">Tergicristalli</a>
                                         </li>
-                                        <li><span><a href="https://www.dipacommerce.it/testina-sterzo_lg914/" title="">Testina sterzo</a></span>
+                                        <li class="default"><i class="fa fa-etsy"></i><a
+                                                href="https://dipacommerce.it/freni-a-disco_lf56/" title="">Pastiglie e
+                                                dischi</a></li>
+                                        <li class="default"><i class="fa fa-etsy"></i><a
+                                                href="https://dipacommerce.it/pneumatici/" title="">Pneumatici</a></li>
+                                        <li class="default"><i class="fa fa-etsy"></i><a
+                                                href="https://dipacommerce.it/batteria_lg3465/" title="">Batteria auto</a>
                                         </li>
                                     </ul>
-                                </li>
-                                <li><span><i class="mf mf-cat_5"></i><a
-                                            href="https://www.dipacommerce.it/distribuzione-cinghia-rullo_lf26/"
-                                            title="">Distribuzione</a></span>
-                                    <ul class="sub_menu_l2">
-                                        <li><span><a href="https://www.dipacommerce.it/kit-distribuzione_lg307/"
-                                                     title="">Kit distribuzione</a></span></li>
-                                        <li><span><a href="https://www.dipacommerce.it/cinghia-distribuzione_lg306/"
-                                                     title="">Cinghia di distribuzione</a></span></li>
-                                        <li><span><a href="https://www.dipacommerce.it/cinghia_lf1553/"
-                                                     title="">Cinghie</a></span></li>
+                                    <ul>
+                                        <li><i class="fa fa-etsy"></i><a href="https://dipacommerce.it/catene-da-neve/"
+                                                                              title="" style="color:#4a80c4">Catene da neve</a>
+                                        </li>
+                                        <li><i class="fa fa-etsy"></i><a href="https://dipacommerce.it/candeletta_lg243/"
+                                                                            title="" style="color:#4a80c4">Candelette</a></li>
+                                        <li><i class="fa fa-etsy"></i><a
+                                                href="https://dipacommerce.it/candela-accensione_lg686/" title=""
+                                                style="color:#4a80c4">Candele</a></li>
                                     </ul>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="sub_menu_col smc_pa">
-                            <ul class="sub_menu_l1">
-                                <li><span><i class="mf mf-cat_9"></i><a href="https://www.dipacommerce.it/filtri_lf55/"
-                                                                        title="">Filtri</a></span>
-                                    <ul class="sub_menu_l2">
-                                        <li><span><a href="https://www.dipacommerce.it/filtro-aria_lg8/" title="">Filtro aria</a></span>
+                                </div>
+                                <div class="sub_menu_col smc_pa">
+                                    <ul class="sub_menu_l1">
+                                        <li><span><i class="fa fa-etsy"></i><a href="https://dipacommerce.it/freni_lc10/"
+                                                                                 title="">Freni</a></span>
+                                            <ul class="sub_menu_l2">
+                                                <li><span><a href="https://dipacommerce.it/pastiglie-freno_lg900005/"
+                                                             title="">Pastiglie freno</a></span></li>
+                                                <li><span><a href="https://dipacommerce.it/dischi-freno-anteriori_lg900007/"
+                                                             title="">Dischi freno</a></span></li>
+                                                <li><span><a href="https://dipacommerce.it/pinza-freno_lg78/" title="">Pinza freno</a></span>
+                                                </li>
+                                                <li><span><a href="https://dipacommerce.it/kit-freni-a-tamburo_lg3859/"
+                                                             title="">Kit freni a tamburo</a></span></li>
+                                            </ul>
                                         </li>
-                                        <li><span><a href="https://www.dipacommerce.it/filtro-olio_lg7/" title="">Filtro olio</a></span>
+                                        <li><span><i class="fa fa-etsy"></i><a
+                                                    href="https://dipacommerce.it/ammortizzatori-sospensione_lf69/"
+                                                    title="">Sospensioni</a> / <a
+                                                    href="https://dipacommerce.it/sterzo_lf71/" title="">Sterzo</a></span>
+                                            <ul class="sub_menu_l2">
+                                                <li><span><a
+                                                            href="https://dipacommerce.it/ammortizzatore-anteriore_lg900001/"
+                                                            title="">Ammortizzatori</a></span></li>
+                                                <li><span><a href="https://dipacommerce.it/barra-stabilizzatrice_lg3229/"
+                                                             title="">Barra stabilizzatrice</a></span></li>
+                                                <li><span><a href="https://dipacommerce.it/braccio-oscillante_lg273/"
+                                                             title="">Braccio oscillante</a></span></li>
+                                                <li><span><a href="https://dipacommerce.it/cuscinetto-ruota_lg654/"
+                                                             title="">Cuscinetto ruota</a></span>
+                                                </li>
+                                                <li><span><a href="https://dipacommerce.it/testina-sterzo_lg914/" title="">Testina sterzo</a></span>
+                                                </li>
+                                            </ul>
                                         </li>
-                                        <li><span><a href="https://www.dipacommerce.it/filtro-carburante_lg9/" title="">Filtro carburante</a></span>
-                                        </li>
-                                        <li><span><a href="https://www.dipacommerce.it/filtro-abitacolo_lg424/" title="">Filtro abitacolo</a></span>
+                                        <li><span><i class="fa fa-etsy"></i><a
+                                                    href="https://dipacommerce.it/distribuzione-cinghia-rullo_lf26/"
+                                                    title="">Distribuzione</a></span>
+                                            <ul class="sub_menu_l2">
+                                                <li><span><a href="https://dipacommerce.it/kit-distribuzione_lg307/"
+                                                             title="">Kit distribuzione</a></span></li>
+                                                <li><span><a href="https://dipacommerce.it/cinghia-distribuzione_lg306/"
+                                                             title="">Cinghia di distribuzione</a></span></li>
+                                                <li><span><a href="https://dipacommerce.it/cinghia_lf1553/"
+                                                             title="">Cinghie</a></span></li>
+                                            </ul>
                                         </li>
                                     </ul>
-                                </li>
-                                <li><span><i class="mf mf-fam_13"></i><a
-                                            href="https://www.dipacommerce.it/frizioni_lf27/" title="">Frizione</a> / <a
-                                            href="https://www.dipacommerce.it/trasmissione_lf13/"
-                                            title="">Trasmissione</a></span>
-                                    <ul class="sub_menu_l2">
-                                        <li><span><a href="https://www.dipacommerce.it/kit-frizione_lg479/" title="">Kit frizione</a></span>
+                                </div>
+                                <div class="sub_menu_col smc_pa">
+                                    <ul class="sub_menu_l1">
+                                        <li><span><i class="fa fa-etsy"></i><a href="https://dipacommerce.it/filtri_lf55/"
+                                                                                title="">Filtri</a></span>
+                                            <ul class="sub_menu_l2">
+                                                <li><span><a href="https://dipacommerce.it/filtro-aria_lg8/" title="">Filtro aria</a></span>
+                                                </li>
+                                                <li><span><a href="https://dipacommerce.it/filtro-olio_lg7/" title="">Filtro olio</a></span>
+                                                </li>
+                                                <li><span><a href="https://dipacommerce.it/filtro-carburante_lg9/" title="">Filtro carburante</a></span>
+                                                </li>
+                                                <li><span><a href="https://dipacommerce.it/filtro-abitacolo_lg424/"
+                                                             title="">Filtro abitacolo</a></span>
+                                                </li>
+                                            </ul>
                                         </li>
-                                        <li><span><a href="https://www.dipacommerce.it/volano_lg577/" title="">Volano motore</a></span>
+                                        <li><span><i class="fa fa-etsy"></i><a
+                                                    href="https://dipacommerce.it/frizioni_lf27/" title="">Frizione</a> / <a
+                                                    href="https://dipacommerce.it/trasmissione_lf13/"
+                                                    title="">Trasmissione</a></span>
+                                            <ul class="sub_menu_l2">
+                                                <li><span><a href="https://dipacommerce.it/kit-frizione_lg479/" title="">Kit frizione</a></span>
+                                                </li>
+                                                <li><span><a href="https://dipacommerce.it/volano_lg577/" title="">Volano motore</a></span>
+                                                </li>
+                                                <li><span><a href="https://dipacommerce.it/semiasse_lg13/"
+                                                             title="">Semiasse</a></span></li>
+                                            </ul>
                                         </li>
-                                        <li><span><a href="https://www.dipacommerce.it/semiasse_lg13/"
-                                                     title="">Semiasse</a></span></li>
+                                        <li><span><i class="fa fa-etsy"></i><a
+                                                    href="https://dipacommerce.it/marmitte-silenziatori_lf36/" title="">Marmitte e silenziatori</a></span>
+                                            <ul class="sub_menu_l2">
+                                                <li><span><a href="https://dipacommerce.it/silenziatore-posteriore_lg3437/"
+                                                             title="">Silenziatore posteriore</a></span></li>
+                                                <li><span><a
+                                                            href="https://dipacommerce.it/catalizzatore-marmitta-catalitica_lg429/"
+                                                            title="">Catalizzatore</a></span></li>
+                                                <li><span><a href="https://dipacommerce.it/valvola-egr_lg1145/" title="">Valvola EGR</a></span>
+                                                </li>
+                                                <li><span><a href="https://dipacommerce.it/sonda-lambda_lg3922/" title="">Sonda lambda</a></span>
+                                                </li>
+                                            </ul>
+                                        </li>
                                     </ul>
-                                </li>
-                                <li><span><i class="mf mf-pot-echappement"></i><a
-                                            href="https://www.dipacommerce.it/marmitte-silenziatori_lf36/" title="">Marmitte e silenziatori</a></span>
-                                    <ul class="sub_menu_l2">
-                                        <li><span><a href="https://www.dipacommerce.it/silenziatore-posteriore_lg3437/"
-                                                     title="">Silenziatore posteriore</a></span></li>
-                                        <li><span><a
-                                                    href="https://www.dipacommerce.it/catalizzatore-marmitta-catalitica_lg429/"
-                                                    title="">Catalizzatore</a></span></li>
-                                        <li><span><a href="https://www.dipacommerce.it/valvola-egr_lg1145/" title="">Valvola EGR</a></span>
+                                </div>
+                                <div class="sub_menu_col smc_pa">
+                                    <ul class="sub_menu_l1">
+                                        <li><span><i class="fa fa-etsy"></i><a
+                                                    href="https://dipacommerce.it/raffreddamento-motore_lc11/" title="">Raffreddamento motore</a></span>
+                                            <ul class="sub_menu_l2">
+                                                <li><span><a href="https://dipacommerce.it/pompa-acqua_lg1260/" title="">Pompa acqua</a></span>
+                                                </li>
+                                                <li><span><a href="https://dipacommerce.it/radiatore_lg470/" title="">Radiatore</a></span>
+                                                </li>
+                                                <li><span><a
+                                                            href="https://dipacommerce.it/ventola-raffreddamento-motore_lg508/"
+                                                            title="">Ventola</a></span></li>
+                                            </ul>
                                         </li>
-                                        <li><span><a href="https://www.dipacommerce.it/sonda-lambda_lg3922/" title="">Sonda lambda</a></span>
+                                        <li><span><i class="fa fa-etsy"></i>Altri ricambi</span>
+                                            <ul class="sub_menu_l2">
+                                                <li><span><a href="https://dipacommerce.it/alternatore_lg4/" title="">Alternatore</a></span>
+                                                </li>
+                                                <li><span><a href="https://dipacommerce.it/motorino-d-avviamento_lg2/"
+                                                             title="">Motorino d'avviamento</a></span></li>
+                                                <li><span><a href="https://dipacommerce.it/fari-fanali-frecce_lf44/"
+                                                             title="">Fari e frecce</a></span></li>
+                                                <li><span><a href="https://dipacommerce.it/lampadine_lf41/" title="">Lampadine</a></span>
+                                                </li>
+                                                <li><span><a
+                                                            href="https://dipacommerce.it/specchietto-retrovisore-esterno_lg50/"
+                                                            title="">Specchietto retrovisore</a></span></li>
+                                            </ul>
                                         </li>
                                     </ul>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="sub_menu_col smc_pa">
-                            <ul class="sub_menu_l1">
-                                <li><span><i class="mf mf-fam_62"></i><a
-                                            href="https://www.dipacommerce.it/raffreddamento-motore_lc11/" title="">Raffreddamento motore</a></span>
-                                    <ul class="sub_menu_l2">
-                                        <li><span><a href="https://www.dipacommerce.it/pompa-acqua_lg1260/" title="">Pompa acqua</a></span>
-                                        </li>
-                                        <li><span><a href="https://www.dipacommerce.it/radiatore_lg470/" title="">Radiatore</a></span>
-                                        </li>
-                                        <li><span><a
-                                                    href="https://www.dipacommerce.it/ventola-raffreddamento-motore_lg508/"
-                                                    title="">Ventola</a></span></li>
-                                    </ul>
-                                </li>
-                                <li><span><i class="mf mf-gear"></i>Altri ricambi</span>
-                                    <ul class="sub_menu_l2">
-                                        <li><span><a href="https://www.dipacommerce.it/alternatore_lg4/" title="">Alternatore</a></span>
-                                        </li>
-                                        <li><span><a href="https://www.dipacommerce.it/motorino-d-avviamento_lg2/"
-                                                     title="">Motorino d'avviamento</a></span></li>
-                                        <li><span><a href="https://www.dipacommerce.it/fari-fanali-frecce_lf44/"
-                                                     title="">Fari e frecce</a></span></li>
-                                        <li><span><a href="https://www.dipacommerce.it/lampadine_lf41/" title="">Lampadine</a></span>
-                                        </li>
-                                        <li><span><a
-                                                    href="https://www.dipacommerce.it/specchietto-retrovisore-esterno_lg50/"
-                                                    title="">Specchietto retrovisore</a></span></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                            <div id="toutes-pieces"><a href="https://www.dipacommerce.it/">+ Catalogo ricambi auto</a>
+                                    <div id="toutes-pieces"><a href="https://dipacommerce.it/">+ Catalogo ricambi auto</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div style="visibility:hidden;" class="tooltip tab2_pneus">
-                    <div class="sub_menu  cleared"></div>
-                </div>
-                <div style="visibility:hidden;" class="tooltip tab2_chaines">
-                    <div class="sub_menu  cleared"></div>
-                </div>
-                <div style="visibility:hidden;" class="tooltip tab2_balais">
-                    <div class="sub_menu  cleared"></div>
-                </div>
-                <div style="visibility:hidden;" class="tooltip tab2_huiles">
-                    <div class="sub_menu  cleared"></div>
-                </div>
-                <div style="visibility:hidden;" class="tooltip tab2_batteries">
-                    <div class="sub_menu  cleared"></div>
-                </div>
-                <div style="visibility:hidden;" class="tooltip tab2_autres_accessoires">
-                    <div class="sub_menu  cleared"></div>
-                </div>
+                    @endif
+                @endforeach
+
             </div>
         </div>
     </div>
@@ -1766,7 +1737,7 @@
 
         <div id="bandeauCampagne">
             <div class="zone">
-                <span class="date"></span><span class="mf mf-arrow triangle"></span>
+                <span class="date"></span><span class="fa fa-etsy"></span>
             </div>
             <div class="mainTextContainer"><img class="_header_bandeau disp_b"
                                                 src="public/accessori_item_detail_files/d_bandeau_defaut_71448_5c24f50ed3871.png"
@@ -1841,7 +1812,7 @@
                                     </div>
                                     <div class="float_r disp_ib">
                                         <a class="nbtn font_s16 txt_bold _modal_panier-action-pay"
-                                           href="https://www.dipacommerce.it/carrello/">Carrello</a>
+                                           href="https://dipacommerce.it/carrello/">Carrello</a>
                                     </div>
                                 </div>
                             </div>
@@ -1876,7 +1847,7 @@
                 <a href="javascript:" class="bouton_wrap shadow_bleu _modal_close">
                     <div class="boxtext_sizeOne boxtext_bleu">Poursuivre mes achats</div>
                 </a>
-                <a href="https://www.dipacommerce.it/carrello/" class="bouton_wrap shadow_orange" style="float:right;">
+                <a href="https://dipacommerce.it/carrello/" class="bouton_wrap shadow_orange" style="float:right;">
                     <div class="boxtext_sizeOne boxtext_orange">Finaliser ma commande</div>
                     <div class="puce_sizeOne puce_orange">
                         <div class="icon arrow_big">.</div>
@@ -1894,14 +1865,14 @@
                 <div class="custom-frame-ariane">
                     <div id="ariane">
                         <div itemscope="" class="link" itemtype="http://data-vocabulary.org/Breadcrumb"><a
-                                href="https://www.dipacommerce.it/accessori-auto/" itemprop="url"><span itemprop="title">Accessori auto</span></a>&nbsp;›&nbsp;
+                                href="https://dipacommerce.it/accessori-auto/" itemprop="url"><span itemprop="title">Accessori auto</span></a>&nbsp;›&nbsp;
                         </div>
                         <div itemscope="" class="link" itemtype="http://data-vocabulary.org/Breadcrumb"><a
-                                href="https://www.dipacommerce.it/accessori-auto/guasti-e-sicurezza_blc610.html"
+                                href="https://dipacommerce.it/accessori-auto/guasti-e-sicurezza_blc610.html"
                                 itemprop="url"><span itemprop="title">Guasti e sicurezza</span></a>&nbsp;›&nbsp;
                         </div>
                         <div itemscope="" class="link" itemtype="http://data-vocabulary.org/Breadcrumb"><a
-                                href="https://www.dipacommerce.it/accessori-auto/attrezzatura-per-soccorso-stradale_bg900013.html"
+                                href="https://dipacommerce.it/accessori-auto/attrezzatura-per-soccorso-stradale_bg900013.html"
                                 itemprop="url"><span itemprop="title">Attrezzatura per soccorso stradale</span></a>&nbsp;›&nbsp;
                         </div>
                         <div itemscope="" class="link" itemtype="http://data-vocabulary.org/Breadcrumb"><a
@@ -2037,7 +2008,7 @@
                                                             In magazzino
                                                         </div>
                                                         <div class="same_day_dispo_stock">
-                                                            <div><i class="mf mf-chrono"></i></div>
+                                                            <div><i class="fa fa-etsy"></i></div>
                                                             <div>Spedizione in giornata</div>
                                                         </div>
                                                         <div id="cpt_rebour" class="same_day_shipping_rebour"><span>2h 24m 28s</span>
@@ -2064,7 +2035,7 @@
                                                     <!--<span class="clr_nfo"><div class="txt_check_green"></div>Spese Spedizione: &euro;&nbsp;7.95</span>
 													<br /><small></small>-->
                                                     <div class="txt_fdp font_s14">
-                                                        <i class="mf mf-truck"></i>
+                                                        <i class="fa fa-etsy"></i>
                                                         <span>Spese Spedizione: €&nbsp;7.95</span>
                                                     </div>
                                                     <div class="info_pneu_offert"></div>
@@ -8576,7 +8547,7 @@
                         "ref": ""
                     }, {
                         "url": "http:\/\/www.dipacommerce.it\/it\/accessori-auto\/chiavetta-usb-4gb-dipacommerce_bg900033_a824CLE4GO.html",
-                        "libelle": "Chiavetta usb 4gb mister auto",
+                        "libelle": "Chiavetta usb 4gb Dipacommerce",
                         "type": "article",
                         "type_item": "boutique",
                         "ids_enfants": "",
@@ -12008,19 +11979,19 @@
         <div class="footer-reinsurance">
             <div class="container">
                 <div class="reinsurance">
-                    <i class="mf mf-sameday-shipping"></i>
+                    <i class="fa fa-etsy"></i>
                     <span>Spedizione <br>in giornata</span>
                 </div>
                 <div class="reinsurance">
-                    <i class="mf mf-secure-card"></i>
+                    <i class="fa fa-etsy"></i>
                     <span>Pagamento sicuro</span>
                 </div>
                 <div class="reinsurance">
-                    <i class="mf mf-customer-service"></i>
+                    <i class="fa fa-etsy"></i>
                     <span>Servizio clienti</span>
                 </div>
                 <div class="reinsurance">
-                    <i class="mf mf-express-delivery"></i>
+                    <i class="fa fa-etsy"></i>
                     <span>Consegna espressa</span>
                 </div>
             </div>
@@ -12038,7 +12009,7 @@
 
                         <div class="frame f_cell f_maxw f_vert_dtl mart0 marb0 f_bc_newsletter">
                             <div class="middle">
-                                <form id="newsletter" method="post" action="https://www.dipacommerce.it/newsletter.html">
+                                <form id="newsletter" method="post" action="https://dipacommerce.it/newsletter.html">
                                     <fieldset>
                                         <input type="text" value="" name="news[email]" id="email"
                                                style="color: rgb(153, 153, 153);">
@@ -12099,16 +12070,16 @@
                         </div>
                     </div>
                     <div class="middle padl16 pro" style="height:inherit;padding: 0">
-                        <a href="https://www.dipacommerce.it/aiuto.html#unit-1" class="withRightNowParams black">Come si
+                        <a href="https://dipacommerce.it/aiuto.html#unit-1" class="withRightNowParams black">Come si
                             ordina?</a>
-                        <a href="https://www.dipacommerce.it/garanzie.html#unit-1" class="withRightNowParams black">Modalità
+                        <a href="https://dipacommerce.it/garanzie.html#unit-1" class="withRightNowParams black">Modalità
                             di consegna</a>
-                        <a href="https://www.dipacommerce.it/garanzie.html#unit-2" class="withRightNowParams black">Modalità
+                        <a href="https://dipacommerce.it/garanzie.html#unit-2" class="withRightNowParams black">Modalità
                             di pagamento</a>
-                        <a href="https://www.dipacommerce.it/mioconto/ordini.html" class=" black">Segui il tuo ordine</a>
-                        <a href="https://www.dipacommerce.it/aiuto.html#unit-3" class="withRightNowParams black">Cambi /
+                        <a href="https://dipacommerce.it/mioconto/ordini.html" class=" black">Segui il tuo ordine</a>
+                        <a href="https://dipacommerce.it/aiuto.html#unit-3" class="withRightNowParams black">Cambi /
                             Restituzioni</a>
-                        <a href="https://www.dipacommerce.it/contatti.html" class=" black">Contattaci</a>
+                        <a href="https://dipacommerce.it/contatti.html" class=" black">Contattaci</a>
 
 
                     </div>
@@ -12119,9 +12090,9 @@
                         <div class="h3 thin"><span class="txt_nowrap_overflow">Info Pratiche</span></div>
                     </div>
                     <div class="middle padl16" style="height:inherit;padding: 0">
-                        <a href="https://www.dipacommerce.it/chi-siamo-noi.html" class="simpl">Chi siamo</a>
-                        <a href="https://www.dipacommerce.it/faq/" class=" black">FAQ</a> <a
-                            href="https://www.dipacommerce.it/newsletter.html" class=" black">Iscriviti alla
+                        <a href="https://dipacommerce.it/chi-siamo-noi.html" class="simpl">Chi siamo</a>
+                        <a href="https://dipacommerce.it/faq/" class=" black">FAQ</a> <a
+                            href="https://dipacommerce.it/newsletter.html" class=" black">Iscriviti alla
                             newsletter</a>
 
                     </div>
@@ -12132,12 +12103,12 @@
                         <div class="h3 thin"><span class="txt_nowrap_overflow">Marche auto</span></div>
                     </div>
                     <div class="middle padl20 top_m" style="height:inherit;padding: 0">
-                        <a href="https://www.dipacommerce.it/ricambi-fiat-v35/" class="black">FIAT</a> <a
-                            href="https://www.dipacommerce.it/ricambi-ford-v36/" class="black">FORD</a> <a
-                            href="https://www.dipacommerce.it/ricambi-opel-v84/" class="black">OPEL</a> <a
-                            href="https://www.dipacommerce.it/ricambi-volkswagen-v121/" class="black">VOLKSWAGEN</a> <a
-                            href="https://www.dipacommerce.it/ricambi-renault-v93/" class="black">RENAULT</a></div>
-                    <a href="https://www.dipacommerce.it/marche-auto/" class="simpl">Le nostre marche</a>
+                        <a href="https://dipacommerce.it/ricambi-fiat-v35/" class="black">FIAT</a> <a
+                            href="https://dipacommerce.it/ricambi-ford-v36/" class="black">FORD</a> <a
+                            href="https://dipacommerce.it/ricambi-opel-v84/" class="black">OPEL</a> <a
+                            href="https://dipacommerce.it/ricambi-volkswagen-v121/" class="black">VOLKSWAGEN</a> <a
+                            href="https://dipacommerce.it/ricambi-renault-v93/" class="black">RENAULT</a></div>
+                    <a href="https://dipacommerce.it/marche-auto/" class="simpl">Le nostre marche</a>
                     <div class="bottom"></div>
                 </div>
 
@@ -12146,12 +12117,12 @@
                         <div class="h3 thin"><span class="txt_nowrap_overflow">Fornitori ricambi auto</span></div>
                     </div>
                     <div class="middle padl20 top_equ" style="height:inherit;padding: 0">
-                        <a href="https://www.dipacommerce.it/bosch_e030/" class="black">BOSCH</a> <a
-                            href="https://www.dipacommerce.it/mann-filter_e004/" class="black">MANN-FILTER</a> <a
-                            href="https://www.dipacommerce.it/ferodo_e062/" class="black">FERODO</a> <a
-                            href="https://www.dipacommerce.it/brembo_e065/" class="black">BREMBO</a> <a
-                            href="https://www.dipacommerce.it/valeo_e021/" class="black">VALEO</a></div>
-                    <a href="https://www.dipacommerce.it/produttori-auto/" class="simpl">I nostri fornitori</a>
+                        <a href="https://dipacommerce.it/bosch_e030/" class="black">BOSCH</a> <a
+                            href="https://dipacommerce.it/mann-filter_e004/" class="black">MANN-FILTER</a> <a
+                            href="https://dipacommerce.it/ferodo_e062/" class="black">FERODO</a> <a
+                            href="https://dipacommerce.it/brembo_e065/" class="black">BREMBO</a> <a
+                            href="https://dipacommerce.it/valeo_e021/" class="black">VALEO</a></div>
+                    <a href="https://dipacommerce.it/produttori-auto/" class="simpl">I nostri fornitori</a>
                     <div class="bottom"></div>
                 </div>
 
@@ -12160,7 +12131,7 @@
             <div style="display: inline-block;text-align: left;margin: 20px 115px 20px 15px;float:left;">
                 <div class="ctc_b">
                     <div class="contact-us">Contattaci</div>
-                    <div class="number">01 44 23 01 03</div>
+                    <div class="number">0523-509862</div>
                     <br><span class="price"></span>
                     <div class="schedule">dal Lunedì al Venerdì : 9H - 19H</div>
                 </div>
@@ -12316,9 +12287,9 @@
                         </div>
                     </div>
                     <div class="link-bottom">
-                        <a href="https://www.dipacommerce.it/cgv.html" class="simpl">CGV</a> -
-                        <a href="https://www.dipacommerce.it/privacy-policy/" class="simpl">Informativa privacy</a> -
-                        2007 - 2019 © Mister Auto<br>
+                        <a href="https://dipacommerce.it/cgv.html" class="simpl">CGV</a> -
+                        <a href="https://dipacommerce.it/privacy-policy/" class="simpl">Informativa privacy</a> -
+                        2007 - 2019 © Dipacommerce<br>
                         <small class="clr_gray">I Marchi riportati in questo Sito sono di proprietà esclusiva delle case
                             automobilistiche e vengono qui utilizzati per favorire la ricerca dei ricambi ai Clienti
                         </small>

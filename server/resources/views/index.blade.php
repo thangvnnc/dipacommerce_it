@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0027)https://www.dipacommerce.it/ -->
+<!-- saved from url=(0027)https://dipacommerce.it/ -->
 <html lang="it"><span class="notranslate" style="display: none" id="a-sp-root-template"><div
         class="a-sp-feedback a-sp-feedback-hidden" id="a-sp-feedback-container">
 <div id="a-sp-feedback-action-question" class="a-sp-feedback-question">
@@ -343,7 +343,7 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
         position: absolute;
     }</style>
     <title> Dipacommerce </title>
-    <link rel="canonical" href="https://www.dipacommerce.it/">
+    <link rel="canonical" href="https://dipacommerce.it/">
     <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.dipacommerce.it/">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
@@ -403,7 +403,7 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
     <link rel="alternate" href="https://www.dipacommerce.de/" hreflang="de-DE">
     <link rel="alternate" href="https://www.dipacommerce.at/" hreflang="de-AT">
     <link rel="alternate" href="https://www.dipacommerce.es/" hreflang="es-ES">
-    <link rel="alternate" href="https://www.dipacommerce.it/" hreflang="it-IT">
+    <link rel="alternate" href="https://dipacommerce.it/" hreflang="it-IT">
     <link rel="alternate" href="https://www.dipacommerce.co.uk/" hreflang="en-GB">
     <link rel="alternate" href="https://www.dipacommerce.se/" hreflang="sv-SE">
     <link rel="alternate" href="https://www.dipacommerce.dk/" hreflang="da-DK">
@@ -420,12 +420,12 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
     <link rel="alternate" href="https://www.dipacommerce.gf/" hreflang="fr-GF">
     <meta property="og:description"
           content="Ricambi e accessori auto originali e alternativi al miglior prezzo! Ricerca per targa il ricambio compatibile. Sconti e offerte speciali fino al -60%!">
-    <meta property="og:title" content="Ricambi Auto Online: Qualità e Risparmio — MISTER-AUTO">
+    <meta property="og:title" content="Ricambi Auto Online: Qualità e Risparmio — DIPACOMMERCE">
     <meta property="og:url" content="https://www.dipacommerce.it">
     <meta property="og:image"
           content="https://static.cdn.dipacommerce.com/front/commons/misterauto/img/ma-social-logo.png">
     <meta property="fb:app_id" content="1493951624164660">
-    <meta property="og:site_name" content="Mister-Auto">
+    <meta property="og:site_name" content="Dipacommerce">
     <link id="avast_os_ext_custom_font"
           href="chrome-extension://eofcbnmajmjmplflapaojjnihcjkigck/common/ui/fonts/fonts.css" rel="stylesheet"
           type="text/css">
@@ -462,7 +462,7 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
 <header id="main-header">
     <div class="cookie-banner">
         <div class="cookie-panel"><span>Continuando la tua visita su questo sito, accetti l'uso di cookie e altri sistemi di tracciamento utilizzati per offrirti servizi e offerte su misura per i tuoi interessi e per eseguire statistiche; </span>
-            <a href="https://www.dipacommerce.it/cookies.html">scopri di più e imposta le tue preferenze</a>
+            <a href="https://dipacommerce.it/cookies.html">scopri di più e imposta le tue preferenze</a>
             <div class="cookie-banner-close"><i class="fa fa-etsy"></i></div>
         </div>
     </div>
@@ -490,7 +490,7 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
                                 headerWelcomeLinkLabel = "Disconnetti";</script>
                             <div id="header-client-info"></div>
                         </li>
-                        <li class="header-new-account"><a href="https://www.dipacommerce.it/nuovoconto.html"
+                        <li class="header-new-account"><a href="https://dipacommerce.it/nuovoconto.html"
                                                           rel="nofollow">Crea un nuovo account cliente <i class="fa fa-caret-down"></i></a></li>
                     </ul>
                 </div>
@@ -500,15 +500,15 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
     <div class="container">
         <div id="header-content-row" class="row">
             <div id="header-logo" class="col-md-2 col-xs-3">
-                <div class="row"><a href="https://www.dipacommerce.it/"> <img src="public/1/logo-dipacommerce.svg"
-                                                                             alt="Logo Mister-auto"> </a></div>
+                <div class="row"><a href="https://dipacommerce.it/"> <img src="public/1/logo-dipacommerce.jpg"
+                                                                             alt="Logo Dipacommerce"> </a></div>
             </div>
             <div id="header-info" class="col-md-6 col-xs-9">
-                <script type="text/javascript"> var searchUrl = "https://www.dipacommerce.it/cerca/";
+                <script type="text/javascript"> var searchUrl = "https://dipacommerce.it/cerca/";
                 var transCategories = "Categorie", transBrands = "Marche", transProducts = "Prodotti",
                     deleteButton = "Cancella", seeMoreProducts = "Vedere di più", transRef = "Rif.:",
                     translationNoProductForVehicle = "Nessun prodotto sembra corrispondere alla tua ricerca.",
-                    translationNoProductOnMA = "Non riesci a trovare quello che stai cercando su Mister Auto?",
+                    translationNoProductOnMA = "Non riesci a trovare quello che stai cercando su Dipacommerce?",
                     translationTryKeywords = "Prova altre parole chiave:",
                     translationSeeCatalogVehicle = "Vedere il catalogo per il mio veicolo";
                 var appId = "06YL843TMG", searchKey = "023cf346915c8c2489499fa4c5be115a",
@@ -550,14 +550,14 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
             <div id="header-customer" class="col-sm-4 col-xs-12">
                 <div class="row">
                     <div class="col-xs-6">
-                        <div class="row"><a class="header-customer-account" href="https://www.dipacommerce.it/mioconto/"
+                        <div class="row"><a class="header-customer-account" href="https://dipacommerce.it/mioconto/"
                                             rel="nofollow" title="Accedi"><i class="fa fa-etsy" aria-hidden="true"></i><span
                                 class="header-customer-label" id="account">Accedi</span> </a></div>
                     </div>
                     <div class="col-xs-6 cart-tooltip ng-scope" ng-controller="cartTooltipController as $ctrl"
                          ng-mouseenter="false" ng-mouseleave="true">
                         <div class="row default"><a id="header-customer-cart"
-                                                    href="https://www.dipacommerce.it/carrello/" rel="nofollow"
+                                                    href="https://dipacommerce.it/carrello/" rel="nofollow"
                                                     title="Il mio carrello"><i class="fa fa-etsy" aria-hidden="true"></i><span
                                 class="header-customer-label">Il mio carrello</span> </a> <!-- ngIf: ngCart.load() -->
                             <div class="cart-tooltip-content ng-scope ng-hide" ng-hide="$ctrl.tooltipHide"
@@ -603,31 +603,31 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
                                                                 <div class="sub-menu-block-list">
                                                                     <ul class="sub-menu-default-list">
                                                                         <li><i class="fa fa-etsy"></i> <a
-                                                                                    href="https://www.dipacommerce.it/accessori-auto/"
+                                                                                    href="https://dipacommerce.it/accessori-auto/"
                                                                                     title="Accessori auto"> Accessori auto </a></li>
                                                                         <li><i class="fa fa-etsy"></i> <a
-                                                                                    href="https://www.dipacommerce.it/spazzola-tergicristallo_lg298/"
+                                                                                    href="https://dipacommerce.it/spazzola-tergicristallo_lg298/"
                                                                                     title="Tergicristalli"> Tergicristalli </a></li>
                                                                         <li><i class="fa fa-etsy"></i> <a
-                                                                                    href="https://www.dipacommerce.it/freni-a-disco_lf56/"
+                                                                                    href="https://dipacommerce.it/freni-a-disco_lf56/"
                                                                                     title="Pastiglie e dischi"> Pastiglie e
                                                                                 dischi </a></li>
                                                                         <li><i class="fa fa-etsy"></i> <a
-                                                                                    href="https://www.dipacommerce.it/pneumatici/"
+                                                                                    href="https://dipacommerce.it/pneumatici/"
                                                                                     title="Pneumatici"> Pneumatici </a></li>
                                                                         <li><i class="fa fa-etsy"></i> <a
-                                                                                    href="https://www.dipacommerce.it/batteria_lg3465/"
+                                                                                    href="https://dipacommerce.it/batteria_lg3465/"
                                                                                     title="Batteria auto"> Batteria auto </a></li>
                                                                     </ul>
                                                                     <ul class="sub-menu-winter-list">
                                                                         <li><i class="fa fa-etsy"></i> <a
-                                                                                    href="https://www.dipacommerce.it/catene-da-neve/"
+                                                                                    href="https://dipacommerce.it/catene-da-neve/"
                                                                                     title="Catene da neve"> Catene da neve </a></li>
                                                                         <li><i class="fa fa-etsy"></i> <a
-                                                                                    href="https://www.dipacommerce.it/candeletta_lg243/"
+                                                                                    href="https://dipacommerce.it/candeletta_lg243/"
                                                                                     title="Candelette"> Candelette </a></li>
                                                                         <li><i class="fa fa-etsy"></i> <a
-                                                                                    href="https://www.dipacommerce.it/candela-accensione_lg686/"
+                                                                                    href="https://dipacommerce.it/candela-accensione_lg686/"
                                                                                     title="Candele"> Candele </a></li>
                                                                     </ul>
                                                                 </div>
@@ -640,27 +640,27 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
                                                                 <ul class="row sub-menu-main-sections-list">
                                                                     <li class="sub-menu-block col-xs-4">
                                                                         <div class="sub-menu-block-title"><i class="fa fa-etsy"></i><a
-                                                                                    href="https://www.dipacommerce.it/freni_lc10/"
+                                                                                    href="https://dipacommerce.it/freni_lc10/"
                                                                                     title="Freni"> Freni </a></div>
                                                                         <div class="sub-menu-block-list">
                                                                             <ul>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/pastiglie-freno_lg900005/"
+                                                                                            href="https://dipacommerce.it/pastiglie-freno_lg900005/"
                                                                                             title="Pastiglie freno"
                                                                                             data-selenium="link_front_generic">
                                                                                         Pastiglie freno </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/dischi-freno-anteriori_lg900007/"
+                                                                                            href="https://dipacommerce.it/dischi-freno-anteriori_lg900007/"
                                                                                             title="Dischi freno"
                                                                                             data-selenium="link_front_generic">
                                                                                         Dischi freno </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/pinza-freno_lg78/"
+                                                                                            href="https://dipacommerce.it/pinza-freno_lg78/"
                                                                                             title="Pinza freno"
                                                                                             data-selenium="link_front_generic">
                                                                                         Pinza freno </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/kit-freni-a-tamburo_lg3859/"
+                                                                                            href="https://dipacommerce.it/kit-freni-a-tamburo_lg3859/"
                                                                                             title="Kit freni a tamburo"
                                                                                             data-selenium="link_front_generic"> Kit
                                                                                         freni a tamburo </a></li>
@@ -670,36 +670,36 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
                                                                     <li class="sub-menu-block col-xs-4">
                                                                         <div class="sub-menu-block-title"><i class="fa fa-etsy"></i>
                                                                             <div>
-                                                                                <a href="https://www.dipacommerce.it/ammortizzatori-sospensione_lf69/"
+                                                                                <a href="https://dipacommerce.it/ammortizzatori-sospensione_lf69/"
                                                                                    title="Sospensioni "> Sospensioni
                                                                                     <span> / </span> </a> <a
-                                                                                        href="https://www.dipacommerce.it/sterzo_lf71/"
+                                                                                        href="https://dipacommerce.it/sterzo_lf71/"
                                                                                         title=" Sterzo"> Sterzo </a></div>
                                                                         </div>
                                                                         <div class="sub-menu-block-list">
                                                                             <ul>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/ammortizzatore-anteriore_lg900001/"
+                                                                                            href="https://dipacommerce.it/ammortizzatore-anteriore_lg900001/"
                                                                                             title="Ammortizzatori"
                                                                                             data-selenium="link_front_generic">
                                                                                         Ammortizzatori </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/barra-stabilizzatrice_lg3229/"
+                                                                                            href="https://dipacommerce.it/barra-stabilizzatrice_lg3229/"
                                                                                             title="Barra stabilizzatrice"
                                                                                             data-selenium="link_front_generic">
                                                                                         Barra stabilizzatrice </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/braccio-oscillante_lg273/"
+                                                                                            href="https://dipacommerce.it/braccio-oscillante_lg273/"
                                                                                             title="Braccio oscillante"
                                                                                             data-selenium="link_front_generic">
                                                                                         Braccio oscillante </a></li>
                                                                                 <li><i class="fa fa-etsy"></i></i> <a
-                                                                                            href="https://www.dipacommerce.it/cuscinetto-ruota_lg654/"
+                                                                                            href="https://dipacommerce.it/cuscinetto-ruota_lg654/"
                                                                                             title="Cuscinetto ruota"
                                                                                             data-selenium="link_front_generic">
                                                                                         Cuscinetto ruota </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/testina-sterzo_lg914/"
+                                                                                            href="https://dipacommerce.it/testina-sterzo_lg914/"
                                                                                             title="Testina sterzo"
                                                                                             data-selenium="link_front_generic">
                                                                                         Testina sterzo </a></li>
@@ -708,22 +708,22 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
                                                                     </li>
                                                                     <li class="sub-menu-block col-xs-4">
                                                                         <div class="sub-menu-block-title"><i class="fa fa-etsy"></i><a
-                                                                                    href="https://www.dipacommerce.it/distribuzione-cinghia-rullo_lf26/"
+                                                                                    href="https://dipacommerce.it/distribuzione-cinghia-rullo_lf26/"
                                                                                     title="Distribuzione"> Distribuzione </a></div>
                                                                         <div class="sub-menu-block-list">
                                                                             <ul>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/kit-distribuzione_lg307/"
+                                                                                            href="https://dipacommerce.it/kit-distribuzione_lg307/"
                                                                                             title="Kit distribuzione"
                                                                                             data-selenium="link_front_generic"> Kit
                                                                                         distribuzione </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/cinghia_lf1553/"
+                                                                                            href="https://dipacommerce.it/cinghia_lf1553/"
                                                                                             title="Cinghie"
                                                                                             data-selenium="link_front_generic">
                                                                                         Cinghie </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/cinghia-distribuzione_lg306/"
+                                                                                            href="https://dipacommerce.it/cinghia-distribuzione_lg306/"
                                                                                             title="Cinghia di distribuzione"
                                                                                             data-selenium="link_front_generic">
                                                                                         Cinghia di distribuzione </a></li>
@@ -734,27 +734,27 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
                                                                 <ul class="row sub-menu-main-sections-list">
                                                                     <li class="sub-menu-block col-xs-4">
                                                                         <div class="sub-menu-block-title"><i class="fa fa-etsy"></i> <a
-                                                                                    href="https://www.dipacommerce.it/filtri_lf55/"
+                                                                                    href="https://dipacommerce.it/filtri_lf55/"
                                                                                     title="Filtri"> Filtri </a></div>
                                                                         <div class="sub-menu-block-list">
                                                                             <ul>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/filtro-aria_lg8/"
+                                                                                            href="https://dipacommerce.it/filtro-aria_lg8/"
                                                                                             title="Filtro aria"
                                                                                             data-selenium="link_front_generic">
                                                                                         Filtro aria </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/filtro-olio_lg7/"
+                                                                                            href="https://dipacommerce.it/filtro-olio_lg7/"
                                                                                             title="Filtro olio"
                                                                                             data-selenium="link_front_generic">
                                                                                         Filtro olio </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/filtro-carburante_lg9/"
+                                                                                            href="https://dipacommerce.it/filtro-carburante_lg9/"
                                                                                             title="Filtro carburante"
                                                                                             data-selenium="link_front_generic">
                                                                                         Filtro carburante </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/filtro-abitacolo_lg424/"
+                                                                                            href="https://dipacommerce.it/filtro-abitacolo_lg424/"
                                                                                             title="Filtro abitacolo"
                                                                                             data-selenium="link_front_generic">
                                                                                         Filtro abitacolo </a></li>
@@ -764,17 +764,17 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
                                                                     <li class="sub-menu-block col-xs-4">
                                                                         <div class="sub-menu-block-title"><i class="fa fa-etsy"></i>
                                                                             <div>
-                                                                                <a href="https://www.dipacommerce.it/frizioni_lf27/"
+                                                                                <a href="https://dipacommerce.it/frizioni_lf27/"
                                                                                    title="Frizione "> Frizione <span> / </span>
                                                                                 </a>
-                                                                                <a href="https://www.dipacommerce.it/trasmissione_lf13/"
+                                                                                <a href="https://dipacommerce.it/trasmissione_lf13/"
                                                                                         title=" Trasmissione"> Trasmissione </a>
                                                                             </div>
                                                                         </div>
                                                                         <div class="sub-menu-block-list">
                                                                             <ul>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/kit-frizione_lg479/"
+                                                                                            href="https://dipacommerce.it/kit-frizione_lg479/"
                                                                                             title="Kit frizione"
                                                                                             data-selenium="link_front_generic"> Kit
                                                                                         frizione </a></li>
@@ -783,28 +783,28 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
                                                                     </li>
                                                                     <li class="sub-menu-block col-xs-4">
                                                                         <div class="sub-menu-block-title"><i class="fa fa-etsy"></i> <a
-                                                                                    href="https://www.dipacommerce.it/marmitte-silenziatori_lf36/"
+                                                                                    href="https://dipacommerce.it/marmitte-silenziatori_lf36/"
                                                                                     title="Marmitte e silenziatori"> Marmitte e
                                                                                 silenziatori </a></div>
                                                                         <div class="sub-menu-block-list">
                                                                             <ul>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/silenziatore-posteriore_lg3437/"
+                                                                                            href="https://dipacommerce.it/silenziatore-posteriore_lg3437/"
                                                                                             title="Silenziatore posteriore"
                                                                                             data-selenium="link_front_generic">
                                                                                         Silenziatore posteriore </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/catalizzatore-marmitta-catalitica_lg429/"
+                                                                                            href="https://dipacommerce.it/catalizzatore-marmitta-catalitica_lg429/"
                                                                                             title="Catalizzatore"
                                                                                             data-selenium="link_front_generic">
                                                                                         Catalizzatore </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/valvola-egr_lg1145/"
+                                                                                            href="https://dipacommerce.it/valvola-egr_lg1145/"
                                                                                             title="Valvola EGR"
                                                                                             data-selenium="link_front_generic">
                                                                                         Valvola EGR </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/sonda-lambda_lg3922/"
+                                                                                            href="https://dipacommerce.it/sonda-lambda_lg3922/"
                                                                                             title="Sonda lambda"
                                                                                             data-selenium="link_front_generic">
                                                                                         Sonda lambda </a></li>
@@ -815,23 +815,23 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
                                                                 <ul class="row sub-menu-main-sections-list">
                                                                     <li class="sub-menu-block col-xs-4">
                                                                         <div class="sub-menu-block-title"><i class="fa fa-etsy"></i> <a
-                                                                                    href="https://www.dipacommerce.it/raffreddamento-motore_lc11/"
+                                                                                    href="https://dipacommerce.it/raffreddamento-motore_lc11/"
                                                                                     title="Raffreddamento motore"> Raffreddamento
                                                                                 motore </a></div>
                                                                         <div class="sub-menu-block-list">
                                                                             <ul>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/pompa-acqua_lg1260/"
+                                                                                            href="https://dipacommerce.it/pompa-acqua_lg1260/"
                                                                                             title="Pompa acqua"
                                                                                             data-selenium="link_front_generic">
                                                                                         Pompa acqua </a></li>
                                                                                 <li><i class="fa fa-etsy"></i> <a
-                                                                                            href="https://www.dipacommerce.it/radiatore_lg470/"
+                                                                                            href="https://dipacommerce.it/radiatore_lg470/"
                                                                                             title="Radiatore"
                                                                                             data-selenium="link_front_generic">
                                                                                         Radiatore </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/ventola-raffreddamento-motore_lg508/"
+                                                                                            href="https://dipacommerce.it/ventola-raffreddamento-motore_lg508/"
                                                                                             title="Ventola"
                                                                                             data-selenium="link_front_generic">
                                                                                         Ventola </a></li>
@@ -844,27 +844,27 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
                                                                         <div class="sub-menu-block-list">
                                                                             <ul>
                                                                                 <li><i class="fa fa-etsy"></i> <a
-                                                                                            href="https://www.dipacommerce.it/alternatore_lg4/"
+                                                                                            href="https://dipacommerce.it/alternatore_lg4/"
                                                                                             title="Alternatore"
                                                                                             data-selenium="link_front_generic">
                                                                                         Alternatore </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/motorino-d-avviamento_lg2/"
+                                                                                            href="https://dipacommerce.it/motorino-d-avviamento_lg2/"
                                                                                             title="Motorino d'avviamento"
                                                                                             data-selenium="link_front_generic">
                                                                                         Motorino d'avviamento </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/fari-fanali-frecce_lf44/"
+                                                                                            href="https://dipacommerce.it/fari-fanali-frecce_lf44/"
                                                                                             title="Fari e frecce"
                                                                                             data-selenium="link_front_generic"> Fari
                                                                                         e frecce </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/lampadine_lf41/"
+                                                                                            href="https://dipacommerce.it/lampadine_lf41/"
                                                                                             title="Lampadine"
                                                                                             data-selenium="link_front_generic">
                                                                                         Lampadine </a></li>
                                                                                 <li><i class="fa fa-etsy"></i><a
-                                                                                            href="https://www.dipacommerce.it/specchietto-retrovisore-esterno_lg50/"
+                                                                                            href="https://dipacommerce.it/specchietto-retrovisore-esterno_lg50/"
                                                                                             title="Specchietto retrovisore"
                                                                                             data-selenium="link_front_generic">
                                                                                         Specchietto retrovisore </a></li>
@@ -874,7 +874,7 @@ Trang web này đã được xác định là không đáng tin cậy. Mọi ưu
                                                                 </ul>
                                                             </div>
                                                             <div id="sub-menu-link-more" class="pull-right"><a
-                                                                        href="https://www.dipacommerce.it/ricambi-auto/"> + Catalogo
+                                                                        href="https://dipacommerce.it/ricambi-auto/"> + Catalogo
                                                                     ricambi auto </a></div>
                                                         </div>
                                                     </div>
@@ -904,9 +904,9 @@ var menuDesktopLogin = "Accedi";</script>
                     <div class="container-homepage-selector"><h1 class="selector-title">Trova i ricambi per la tua
                         auto</h1>
                         <ul class="nav nav-pills">
-                            <li class="active"><a data-toggle="pill" href="https://www.dipacommerce.it/#tab1"
+                            <li class="active"><a data-toggle="pill" href="https://dipacommerce.it/#tab1"
                                                   data-selenium="btn_model_veh"> <i class="fa fa-etsy"></i></a></li>
-                            <li><a data-toggle="pill" href="https://www.dipacommerce.it/#tab3"
+                            <li><a data-toggle="pill" href="https://dipacommerce.it/#tab3"
                                    data-selenium="btn_model_ref"><i class="fa fa-etsy"></i> Riferimento </a></li>
                         </ul>
                         <div class="tab-content">
@@ -963,18 +963,18 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="gdpr"><a class="msg">Maggiori informazioni sul trattamento dei dati e
                                         sui tuoi diritti</a>
                                         <div class="gdpr-txt" style="display: none;"><p>I dati sopra riportati sono
-                                            obbligatori e vengono elaborati da Mister Auto SAS per l'esecuzione del
+                                            obbligatori e vengono elaborati da Dipacommerce SAS per l'esecuzione del
                                             contratto e il tracciamento degli ordini. Vengono trasmessi ai fornitori di
-                                            servizi che Mister Auto SAS utilizza per questo scopo,&nbsp;se necessario al
+                                            servizi che Dipacommerce SAS utilizza per questo scopo,&nbsp;se necessario al
                                             di fuori dell'Unione Europea con adeguate garanzie legali che è possibile
                                             ottenere all'indirizzo sotto indicato.&nbsp;Sono conservati per un massimo
                                             di 5 anni.<br><br>Puoi accedere, modificare, far valere il tuo diritto alla
                                             portabilità, cancellare tutti i dati su di te, richiedere la limitazione del
                                             trattamento dei tuoi dati e opporti al trattamento dei tuoi dati
-                                            contattandoci via posta a Mister Auto, Data Protection,&nbsp;19 rue Alfred
+                                            contattandoci via posta a Dipacommerce, Data Protection,&nbsp;19 rue Alfred
                                             de Musset, 69100 Villeurbanne, Francia&nbsp;e via e-mail all'indirizzo&nbsp;<a
                                                     style="color:#0572b7;" href="mailto:dataprotection@mister-atuo.com">dataprotection@dipacommerce.com</a>,
-                                            a condizione che la richiesta non comporti l'impossibilità per Mister Auto
+                                            a condizione che la richiesta non comporti l'impossibilità per Dipacommerce
                                             SAS di adempiere ai propri obblighi legali o contrattuali. Hai anche il
                                             diritto di presentare un reclamo alle autorità competenti.</p></div>
                                     </div>
@@ -1158,23 +1158,23 @@ var menuDesktopLogin = "Accedi";</script>
                 <div class="old-campaign old-campaign-slider ng-scope" ng-controller="oldCampaignSliderCtrl"
                      ng-if="image != ''">
                     <div id="home-slider" class="carousel slide" data-ride="carousel"><a
-                            class="left carousel-control-custom" href="https://www.dipacommerce.it/#home-slider"
+                            class="left carousel-control-custom" href="https://dipacommerce.it/#home-slider"
                             data-slide="prev"><i class="fa fa-etsy"></i></a> <a
-                            class="right carousel-control-custom" href="https://www.dipacommerce.it/#home-slider"
+                            class="right carousel-control-custom" href="https://dipacommerce.it/#home-slider"
                             data-slide="next"><i class="fa fa-etsy"></i></a>
                         <div class="carousel-inner"> <!-- ngRepeat: item in slider track by $index -->
                             <div class="item ng-scope active" ng-repeat="item in slider track by $index"
                                  ng-class="{'active': item == slider[0]}"><a
-                                    ng-href="https://www.dipacommerce.it/ricambi-auto/"
-                                    href="https://www.dipacommerce.it/ricambi-auto/"> <!-- ngIf: item.text_1 --><span
+                                    ng-href="https://dipacommerce.it/ricambi-auto/"
+                                    href="https://dipacommerce.it/ricambi-auto/"> <!-- ngIf: item.text_1 --><span
                                     class="additional-text ng-binding ng-scope"
                                     ng-if="item.text_1">Offerta Limitata</span><!-- end ngIf: item.text_1 --> <img
                                     class="sliderImg" data-id="0" src="public/1/d_slide_homepage_71454_5c24f516d8ef1.png">
                             </a></div><!-- end ngRepeat: item in slider track by $index -->
                             <div class="item ng-scope" ng-repeat="item in slider track by $index"
                                  ng-class="{'active': item == slider[0]}"><a
-                                    ng-href="https://www.dipacommerce.it/it/pneumatici/"
-                                    href="https://www.dipacommerce.it/it/pneumatici/"> <!-- ngIf: item.text_1 --> <img
+                                    ng-href="https://dipacommerce.it/it/pneumatici/"
+                                    href="https://dipacommerce.it/it/pneumatici/"> <!-- ngIf: item.text_1 --> <img
                                     class="sliderImg" data-id="1" src="public/1/d_slide_homepage_64965_5bcddd5bb0836.png">
                             </a></div><!-- end ngRepeat: item in slider track by $index --> </div>
                     </div>
@@ -1222,7 +1222,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-lancia-v64/" tabindex="-1">
+                                                    href="https://dipacommerce.it/ricambi-lancia-v64/" tabindex="-1">
                                                 <img class="img-brands" width="70" src="public/1/64.jpg" alt="LANCIA"> </a>
                                             </div>
                                         </div>
@@ -1231,7 +1231,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-mercedes-benz-v74/"
+                                                    href="https://dipacommerce.it/ricambi-mercedes-benz-v74/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/74.jpg"
                                                                         alt="MERCEDES-BENZ"> </a></div>
                                         </div>
@@ -1240,7 +1240,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-opel-v84/" tabindex="-1">
+                                                    href="https://dipacommerce.it/ricambi-opel-v84/" tabindex="-1">
                                                 <img class="img-brands" width="70" src="public/1/84.jpg" alt="OPEL"> </a>
                                             </div>
                                         </div>
@@ -1249,7 +1249,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-peugeot-v88/"
+                                                    href="https://dipacommerce.it/ricambi-peugeot-v88/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/88.jpg"
                                                                         alt="PEUGEOT"> </a></div>
                                         </div>
@@ -1258,7 +1258,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-renault-v93/"
+                                                    href="https://dipacommerce.it/ricambi-renault-v93/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/93.jpg"
                                                                         alt="RENAULT"> </a></div>
                                         </div>
@@ -1267,7 +1267,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-volkswagen-v121/"
+                                                    href="https://dipacommerce.it/ricambi-volkswagen-v121/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/121.jpg"
                                                                         alt="VOLKSWAGEN"> </a></div>
                                         </div>
@@ -1276,7 +1276,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          aria-hidden="false">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-alfa-romeo-v2/"
+                                                    href="https://dipacommerce.it/ricambi-alfa-romeo-v2/"
                                                     tabindex="0"> <img class="img-brands" width="70" src="public/1/2.jpg"
                                                                        alt="ALFA ROMEO"> </a></div>
                                         </div>
@@ -1284,7 +1284,7 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-audi-v5/" tabindex="0">
+                                                    href="https://dipacommerce.it/ricambi-audi-v5/" tabindex="0">
                                                 <img class="img-brands" width="70" src="public/1/5.jpg" alt="AUDI"> </a>
                                             </div>
                                         </div>
@@ -1292,7 +1292,7 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-bmw-v16/" tabindex="0">
+                                                    href="https://dipacommerce.it/ricambi-bmw-v16/" tabindex="0">
                                                 <img class="img-brands" width="70" src="public/1/16.jpg" alt="BMW"> </a>
                                             </div>
                                         </div>
@@ -1300,7 +1300,7 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-citroen-v21/" tabindex="0">
+                                                    href="https://dipacommerce.it/ricambi-citroen-v21/" tabindex="0">
                                                 <img class="img-brands" width="70" src="public/1/21.jpg" alt="CITROEN"> </a>
                                             </div>
                                         </div>
@@ -1308,7 +1308,7 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="slick-slide slick-active" data-slick-index="4" aria-hidden="false">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-fiat-v35/" tabindex="0">
+                                                    href="https://dipacommerce.it/ricambi-fiat-v35/" tabindex="0">
                                                 <img class="img-brands" width="70" src="public/1/35.jpg" alt="FIAT"> </a>
                                             </div>
                                         </div>
@@ -1316,7 +1316,7 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="slick-slide slick-active" data-slick-index="5" aria-hidden="false">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-ford-v36/" tabindex="0">
+                                                    href="https://dipacommerce.it/ricambi-ford-v36/" tabindex="0">
                                                 <img class="img-brands" width="70" src="public/1/36.jpg" alt="FORD"> </a>
                                             </div>
                                         </div>
@@ -1324,7 +1324,7 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-lancia-v64/" tabindex="-1">
+                                                    href="https://dipacommerce.it/ricambi-lancia-v64/" tabindex="-1">
                                                 <img class="img-brands" width="70" src="public/1/64.jpg" alt="LANCIA"> </a>
                                             </div>
                                         </div>
@@ -1332,7 +1332,7 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-mercedes-benz-v74/"
+                                                    href="https://dipacommerce.it/ricambi-mercedes-benz-v74/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/74.jpg"
                                                                         alt="MERCEDES-BENZ"> </a></div>
                                         </div>
@@ -1340,7 +1340,7 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-opel-v84/" tabindex="-1">
+                                                    href="https://dipacommerce.it/ricambi-opel-v84/" tabindex="-1">
                                                 <img class="img-brands" width="70" src="public/1/84.jpg" alt="OPEL"> </a>
                                             </div>
                                         </div>
@@ -1348,7 +1348,7 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-peugeot-v88/"
+                                                    href="https://dipacommerce.it/ricambi-peugeot-v88/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/88.jpg"
                                                                         alt="PEUGEOT"> </a></div>
                                         </div>
@@ -1356,7 +1356,7 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="slick-slide" data-slick-index="10" aria-hidden="true" tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-renault-v93/"
+                                                    href="https://dipacommerce.it/ricambi-renault-v93/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/93.jpg"
                                                                         alt="RENAULT"> </a></div>
                                         </div>
@@ -1364,7 +1364,7 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="slick-slide" data-slick-index="11" aria-hidden="true" tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-volkswagen-v121/"
+                                                    href="https://dipacommerce.it/ricambi-volkswagen-v121/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/121.jpg"
                                                                         alt="VOLKSWAGEN"> </a></div>
                                         </div>
@@ -1373,7 +1373,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-alfa-romeo-v2/"
+                                                    href="https://dipacommerce.it/ricambi-alfa-romeo-v2/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/2.jpg"
                                                                         alt="ALFA ROMEO"> </a></div>
                                         </div>
@@ -1382,7 +1382,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-audi-v5/" tabindex="-1">
+                                                    href="https://dipacommerce.it/ricambi-audi-v5/" tabindex="-1">
                                                 <img class="img-brands" width="70" src="public/1/5.jpg" alt="AUDI"> </a>
                                             </div>
                                         </div>
@@ -1391,7 +1391,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-bmw-v16/" tabindex="-1">
+                                                    href="https://dipacommerce.it/ricambi-bmw-v16/" tabindex="-1">
                                                 <img class="img-brands" width="70" src="public/1/16.jpg" alt="BMW"> </a>
                                             </div>
                                         </div>
@@ -1400,7 +1400,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-citroen-v21/"
+                                                    href="https://dipacommerce.it/ricambi-citroen-v21/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/21.jpg"
                                                                         alt="CITROEN"> </a></div>
                                         </div>
@@ -1409,7 +1409,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-fiat-v35/" tabindex="-1">
+                                                    href="https://dipacommerce.it/ricambi-fiat-v35/" tabindex="-1">
                                                 <img class="img-brands" width="70" src="public/1/35.jpg" alt="FIAT"> </a>
                                             </div>
                                         </div>
@@ -1418,7 +1418,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-ford-v36/" tabindex="-1">
+                                                    href="https://dipacommerce.it/ricambi-ford-v36/" tabindex="-1">
                                                 <img class="img-brands" width="70" src="public/1/36.jpg" alt="FORD"> </a>
                                             </div>
                                         </div>
@@ -1427,7 +1427,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-lancia-v64/" tabindex="-1">
+                                                    href="https://dipacommerce.it/ricambi-lancia-v64/" tabindex="-1">
                                                 <img class="img-brands" width="70" src="public/1/64.jpg" alt="LANCIA"> </a>
                                             </div>
                                         </div>
@@ -1436,7 +1436,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-mercedes-benz-v74/"
+                                                    href="https://dipacommerce.it/ricambi-mercedes-benz-v74/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/74.jpg"
                                                                         alt="MERCEDES-BENZ"> </a></div>
                                         </div>
@@ -1445,7 +1445,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-opel-v84/" tabindex="-1">
+                                                    href="https://dipacommerce.it/ricambi-opel-v84/" tabindex="-1">
                                                 <img class="img-brands" width="70" src="public/1/84.jpg" alt="OPEL"> </a>
                                             </div>
                                         </div>
@@ -1454,7 +1454,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-peugeot-v88/"
+                                                    href="https://dipacommerce.it/ricambi-peugeot-v88/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/88.jpg"
                                                                         alt="PEUGEOT"> </a></div>
                                         </div>
@@ -1463,7 +1463,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-renault-v93/"
+                                                    href="https://dipacommerce.it/ricambi-renault-v93/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/93.jpg"
                                                                         alt="RENAULT"> </a></div>
                                         </div>
@@ -1472,7 +1472,7 @@ var menuDesktopLogin = "Accedi";</script>
                                          tabindex="-1">
                                         <div>
                                             <div class="brand img-only" style="width: 100%; display: inline-block;"><a
-                                                    href="https://www.dipacommerce.it/ricambi-volkswagen-v121/"
+                                                    href="https://dipacommerce.it/ricambi-volkswagen-v121/"
                                                     tabindex="-1"> <img class="img-brands" width="70" src="public/1/121.jpg"
                                                                         alt="VOLKSWAGEN"> </a></div>
                                         </div>
@@ -1501,20 +1501,20 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="container-list">
                                         <ul>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/pastiglie-freno_lg900005/"
+                                                   href="https://dipacommerce.it/pastiglie-freno_lg900005/"
                                                    title="Pastiglie freno"> Pastiglie freno </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/dischi-freno-anteriori_lg900007/"
+                                                   href="https://dipacommerce.it/dischi-freno-anteriori_lg900007/"
                                                    title="Dischi freno"> Dischi freno </a></li>
-                                            <li><a role="menuitem" href="https://www.dipacommerce.it/pinza-freno_lg78/"
+                                            <li><a role="menuitem" href="https://dipacommerce.it/pinza-freno_lg78/"
                                                    title="Pinza freno"> Pinza freno </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/freno-a-tamburo_lg123/"
+                                                   href="https://dipacommerce.it/freno-a-tamburo_lg123/"
                                                    title="Freno a tamburo"> Freno a tamburo </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/cilindretto-freno_lg277/"
+                                                   href="https://dipacommerce.it/cilindretto-freno_lg277/"
                                                    title="Cilindretto freno"> Cilindretto freno </a></li>
-                                            <a class="more" href="https://www.dipacommerce.it/freni_lc10/"
+                                            <a class="more" href="https://dipacommerce.it/freni_lc10/"
                                                title="Vedi i prodotti"> Vedi + </a></ul>
                                     </div>
                                 </div>
@@ -1524,17 +1524,17 @@ var menuDesktopLogin = "Accedi";</script>
                                         <strong>Filtri / Cambio olio</strong></div>
                                     <div class="container-list">
                                         <ul>
-                                            <li><a role="menuitem" href="https://www.dipacommerce.it/filtro-aria_lg8/"
+                                            <li><a role="menuitem" href="https://dipacommerce.it/filtro-aria_lg8/"
                                                    title="Filtro aria"> Filtro aria </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/filtro-carburante_lg9/"
+                                                   href="https://dipacommerce.it/filtro-carburante_lg9/"
                                                    title="Filtro carburante"> Filtro carburante </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/filtro-abitacolo_lg424/"
+                                                   href="https://dipacommerce.it/filtro-abitacolo_lg424/"
                                                    title="Filtro abitacolo"> Filtro abitacolo </a></li>
-                                            <li><a role="menuitem" href="https://www.dipacommerce.it/olio-motore_lg3224/"
+                                            <li><a role="menuitem" href="https://dipacommerce.it/olio-motore_lg3224/"
                                                    title="Olio motore"> Olio motore </a></li>
-                                            <a class="more" href="https://www.dipacommerce.it/filtri-cambio-olio_lc9/"
+                                            <a class="more" href="https://dipacommerce.it/filtri-cambio-olio_lc9/"
                                                title="Vedi i prodotti"> Vedi + </a></ul>
                                     </div>
                                 </div>
@@ -1545,22 +1545,22 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="container-list">
                                         <ul>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/ammortizzatore-anteriore_lg900001/"
+                                                   href="https://dipacommerce.it/ammortizzatore-anteriore_lg900001/"
                                                    title="Ammortizzatori"> Ammortizzatori </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/molla-sospensione_lg188/"
+                                                   href="https://dipacommerce.it/molla-sospensione_lg188/"
                                                    title="Molla sospensione"> Molla sospensione </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/cuscinetto-ruota_lg654/"
+                                                   href="https://dipacommerce.it/cuscinetto-ruota_lg654/"
                                                    title="Cuscinetto ruota"> Cuscinetto ruota </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/testina-sterzo_lg914/"
+                                                   href="https://dipacommerce.it/testina-sterzo_lg914/"
                                                    title="Testina sterzo"> Testina sterzo </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/barra-d-accoppiamento_lg284/"
+                                                   href="https://dipacommerce.it/barra-d-accoppiamento_lg284/"
                                                    title="Barra d'accoppiamento"> Barra d'accoppiamento </a></li>
                                             <a class="more"
-                                               href="https://www.dipacommerce.it/avantreno-retrotreno-sospensione_lc13/"
+                                               href="https://dipacommerce.it/avantreno-retrotreno-sospensione_lc13/"
                                                title="Vedi i prodotti"> Vedi + </a></ul>
                                     </div>
                                 </div>
@@ -1570,15 +1570,15 @@ var menuDesktopLogin = "Accedi";</script>
                                         <strong>Frizione - Scatola cambio - Trasmissione</strong></div>
                                     <div class="container-list">
                                         <ul>
-                                            <li><a role="menuitem" href="https://www.dipacommerce.it/kit-frizione_lg479/"
+                                            <li><a role="menuitem" href="https://dipacommerce.it/kit-frizione_lg479/"
                                                    title="Kit frizione"> Kit frizione </a></li>
-                                            <li><a role="menuitem" href="https://www.dipacommerce.it/semiasse_lg13/"
+                                            <li><a role="menuitem" href="https://dipacommerce.it/semiasse_lg13/"
                                                    title="Semiasse"> Semiasse </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/kit-cuffia-semiasse_lg194/"
+                                                   href="https://dipacommerce.it/kit-cuffia-semiasse_lg194/"
                                                    title="Kit cuffia semiasse"> Kit cuffia semiasse </a></li>
                                             <a class="more"
-                                               href="https://www.dipacommerce.it/frizione-scatola-cambio-trasmissione_lc2/"
+                                               href="https://dipacommerce.it/frizione-scatola-cambio-trasmissione_lc2/"
                                                title="Vedi i prodotti"> Vedi + </a></ul>
                                     </div>
                                 </div>
@@ -1588,18 +1588,18 @@ var menuDesktopLogin = "Accedi";</script>
                                         <strong>Vano motore</strong></div>
                                     <div class="container-list">
                                         <ul>
-                                            <li><a role="menuitem" href="https://www.dipacommerce.it/candeletta_lg243/"
+                                            <li><a role="menuitem" href="https://dipacommerce.it/candeletta_lg243/"
                                                    title="Candeletta"> Candeletta </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/candela-accensione_lg686/"
+                                                   href="https://dipacommerce.it/candela-accensione_lg686/"
                                                    title="Candela accensione"> Candela accensione </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/bobina-d-accensione_lg689/"
+                                                   href="https://dipacommerce.it/bobina-d-accensione_lg689/"
                                                    title="Bobina d'accensione"> Bobina d'accensione </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/cinghia-distribuzione_lg306/"
+                                                   href="https://dipacommerce.it/cinghia-distribuzione_lg306/"
                                                    title="Cinghia di distribuzione"> Cinghia di distribuzione </a></li>
-                                            <a class="more" href="https://www.dipacommerce.it/vano-motore_lc5/"
+                                            <a class="more" href="https://dipacommerce.it/vano-motore_lc5/"
                                                title="Vedi i prodotti"> Vedi + </a></ul>
                                     </div>
                                 </div>
@@ -1609,22 +1609,22 @@ var menuDesktopLogin = "Accedi";</script>
                                         <strong>Apparecchiature esterne</strong></div>
                                     <div class="container-list">
                                         <ul>
-                                            <li><a role="menuitem" href="https://www.dipacommerce.it/fendinebbia_lg289/"
+                                            <li><a role="menuitem" href="https://dipacommerce.it/fendinebbia_lg289/"
                                                    title="Fendinebbia"> Fendinebbia </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/faro-posteriore_lg391/"
+                                                   href="https://dipacommerce.it/faro-posteriore_lg391/"
                                                    title="Faro posteriore"> Faro posteriore </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/spazzola-tergicristallo_lg298/"
+                                                   href="https://dipacommerce.it/spazzola-tergicristallo_lg298/"
                                                    title="Spazzole tergicristallo"> Spazzole tergicristallo </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/pompa-tergicristallo_lg794/"
+                                                   href="https://dipacommerce.it/pompa-tergicristallo_lg794/"
                                                    title="Pompa tergicristallo"> Pompa tergicristallo </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/motore-tergicristallo_lg295/"
+                                                   href="https://dipacommerce.it/motore-tergicristallo_lg295/"
                                                    title="Motore tergicristallo"> Motore tergicristallo </a></li>
                                             <a class="more"
-                                               href="https://www.dipacommerce.it/apparecchiature-esterne_lc617/"
+                                               href="https://dipacommerce.it/apparecchiature-esterne_lc617/"
                                                title="Vedi i prodotti"> Vedi + </a></ul>
                                     </div>
                                 </div>
@@ -1635,22 +1635,22 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="container-list">
                                         <ul>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/silenziatore-posteriore_lg3437/"
+                                                   href="https://dipacommerce.it/silenziatore-posteriore_lg3437/"
                                                    title="Silenziatore posteriore"> Silenziatore posteriore </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/silenziatore-centrale_lg3436/"
+                                                   href="https://dipacommerce.it/silenziatore-centrale_lg3436/"
                                                    title="Silenziatore centrale"> Silenziatore centrale </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/silenziatore-anteriore_lg3435/"
+                                                   href="https://dipacommerce.it/silenziatore-anteriore_lg3435/"
                                                    title="Silenziatore anteriore"> Silenziatore anteriore </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/catalizzatore-marmitta-catalitica_lg429/"
+                                                   href="https://dipacommerce.it/catalizzatore-marmitta-catalitica_lg429/"
                                                    title="Catalizzatore / Marmitta catalitica"> Catalizzatore / Marmitta
                                                 catalitica </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/filtro-antiparticolato_lg1256/"
+                                                   href="https://dipacommerce.it/filtro-antiparticolato_lg1256/"
                                                    title="Filtro antiparticolato"> Filtro antiparticolato </a></li>
-                                            <a class="more" href="https://www.dipacommerce.it/impianto-di-scarico_lc6/"
+                                            <a class="more" href="https://dipacommerce.it/impianto-di-scarico_lc6/"
                                                title="Vedi i prodotti"> Vedi + </a></ul>
                                     </div>
                                 </div>
@@ -1660,18 +1660,18 @@ var menuDesktopLogin = "Accedi";</script>
                                         <strong>Elettricità</strong></div>
                                     <div class="container-list">
                                         <ul>
-                                            <li><a role="menuitem" href="https://www.dipacommerce.it/alternatore_lg4/"
+                                            <li><a role="menuitem" href="https://dipacommerce.it/alternatore_lg4/"
                                                    title="Alternatore"> Alternatore </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/motorino-d-avviamento_lg2/"
+                                                   href="https://dipacommerce.it/motorino-d-avviamento_lg2/"
                                                    title="Motorino d'avviamento"> Motorino d'avviamento </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/puleggia-alternatore_lg1108/"
+                                                   href="https://dipacommerce.it/puleggia-alternatore_lg1108/"
                                                    title="Puleggia alternatore"> Puleggia alternatore </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/leva-devio-guida_lg1563/"
+                                                   href="https://dipacommerce.it/leva-devio-guida_lg1563/"
                                                    title="Leva devio guida"> Leva devio guida </a></li>
-                                            <a class="more" href="https://www.dipacommerce.it/elettricita_lc7/"
+                                            <a class="more" href="https://dipacommerce.it/elettricita_lc7/"
                                                title="Vedi i prodotti"> Vedi + </a></ul>
                                     </div>
                                 </div>
@@ -1681,22 +1681,22 @@ var menuDesktopLogin = "Accedi";</script>
                                         <strong>Impianto di raffreddamento motore</strong></div>
                                     <div class="container-list">
                                         <ul>
-                                            <li><a role="menuitem" href="https://www.dipacommerce.it/pompa-acqua_lg1260/"
+                                            <li><a role="menuitem" href="https://dipacommerce.it/pompa-acqua_lg1260/"
                                                    title="Pompa acqua"> Pompa acqua </a></li>
-                                            <li><a role="menuitem" href="https://www.dipacommerce.it/radiatore_lg470/"
+                                            <li><a role="menuitem" href="https://dipacommerce.it/radiatore_lg470/"
                                                    title="Radiatore"> Radiatore </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/ventola-raffreddamento-motore_lg508/"
+                                                   href="https://dipacommerce.it/ventola-raffreddamento-motore_lg508/"
                                                    title="Ventola di raffreddamento"> Ventola di raffreddamento </a>
                                             </li>
-                                            <li><a role="menuitem" href="https://www.dipacommerce.it/termostato_lg316/"
+                                            <li><a role="menuitem" href="https://dipacommerce.it/termostato_lg316/"
                                                    title="Termostato"> Termostato </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/sensore-temperatura-motore_lg830/"
+                                                   href="https://dipacommerce.it/sensore-temperatura-motore_lg830/"
                                                    title="Sensore temperatura motore"> Sensore temperatura motore </a>
                                             </li>
                                             <a class="more"
-                                               href="https://www.dipacommerce.it/raffreddamento-motore_lc11/"
+                                               href="https://dipacommerce.it/raffreddamento-motore_lc11/"
                                                title="Vedi i prodotti"> Vedi + </a></ul>
                                     </div>
                                 </div>
@@ -1707,21 +1707,21 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="container-list">
                                         <ul>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/radiatore-riscaldamento_lg467/"
+                                                   href="https://dipacommerce.it/radiatore-riscaldamento_lg467/"
                                                    title="Radiatore riscaldamento"> Radiatore riscaldamento </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/ventola-abitacolo_lg2669/"
+                                                   href="https://dipacommerce.it/ventola-abitacolo_lg2669/"
                                                    title="Ventola abitacolo"> Ventola abitacolo </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/compressore-climatizzatore_lg447/"
+                                                   href="https://dipacommerce.it/compressore-climatizzatore_lg447/"
                                                    title="Compressore climatizzatore"> Compressore climatizzatore </a>
                                             </li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/condensatore-climatizzatore_lg448/"
+                                                   href="https://dipacommerce.it/condensatore-climatizzatore_lg448/"
                                                    title="Condensatore climatizzatore"> Condensatore climatizzatore </a>
                                             </li>
                                             <a class="more"
-                                               href="https://www.dipacommerce.it/riscaldamento-climatizzazione_lc4/"
+                                               href="https://dipacommerce.it/riscaldamento-climatizzazione_lc4/"
                                                title="Vedi i prodotti"> Vedi + </a></ul>
                                     </div>
                                 </div>
@@ -1732,20 +1732,20 @@ var menuDesktopLogin = "Accedi";</script>
                                     <div class="container-list">
                                         <ul>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/tappo-serbatoio_lg602/"
+                                                   href="https://dipacommerce.it/tappo-serbatoio_lg602/"
                                                    title="Tappo serbatoio"> Tappo serbatoio </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/alzacristallo-anteriore_lg900003/"
+                                                   href="https://dipacommerce.it/alzacristallo-anteriore_lg900003/"
                                                    title="Alzacristallo"> Alzacristallo </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/pistoni-portellone-posteriore_lg219/"
+                                                   href="https://dipacommerce.it/pistoni-portellone-posteriore_lg219/"
                                                    title="Pistoni portellone posteriore"> Pistoni portellone
                                                 posteriore </a></li>
                                             <li><a role="menuitem"
-                                                   href="https://www.dipacommerce.it/ammortizzatore-del-cofano_lg514/"
+                                                   href="https://dipacommerce.it/ammortizzatore-del-cofano_lg514/"
                                                    title="Ammortizzatore del Cofano "> Ammortizzatore del Cofano </a>
                                             </li>
-                                            <a class="more" href="https://www.dipacommerce.it/serrature-chiusure_lc12/"
+                                            <a class="more" href="https://dipacommerce.it/serrature-chiusure_lc12/"
                                                title="Vedi i prodotti"> Vedi + </a></ul>
                                     </div>
                                 </div>
@@ -1775,7 +1775,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/febi-bilstein_e101/"
+                                                            href="https://dipacommerce.it/febi-bilstein_e101/"
                                                             tabindex="-1"> <img src="public/1/101.png" title="FEBI BILSTEIN">
                                                     </a></div>
                                                 </div>
@@ -1785,7 +1785,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/kyb_e085/" tabindex="-1">
+                                                            href="https://dipacommerce.it/kyb_e085/" tabindex="-1">
                                                         <img src="public/1/085.png" title="KYB"> </a></div>
                                                 </div>
                                             </div>
@@ -1794,7 +1794,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/luk_e006/" tabindex="-1">
+                                                            href="https://dipacommerce.it/luk_e006/" tabindex="-1">
                                                         <img src="public/1/006.png" title="LuK"> </a></div>
                                                 </div>
                                             </div>
@@ -1803,7 +1803,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/monroe_e037/"
+                                                            href="https://dipacommerce.it/monroe_e037/"
                                                             tabindex="-1"> <img src="public/1/037.png" title="MONROE"> </a>
                                                     </div>
                                                 </div>
@@ -1813,7 +1813,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/skf_e050/" tabindex="-1">
+                                                            href="https://dipacommerce.it/skf_e050/" tabindex="-1">
                                                         <img src="public/1/050.png" title="SKF"> </a></div>
                                                 </div>
                                             </div>
@@ -1822,7 +1822,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/trw_e161/" tabindex="-1">
+                                                            href="https://dipacommerce.it/trw_e161/" tabindex="-1">
                                                         <img src="public/1/161.png" title="TRW"> </a></div>
                                                 </div>
                                             </div>
@@ -1831,7 +1831,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/beru_e011/" tabindex="0">
+                                                            href="https://dipacommerce.it/beru_e011/" tabindex="0">
                                                         <img src="public/1/011.png" title="BERU"> </a></div>
                                                 </div>
                                             </div>
@@ -1840,7 +1840,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/bosch_e030/" tabindex="0">
+                                                            href="https://dipacommerce.it/bosch_e030/" tabindex="0">
                                                         <img src="public/1/030.png" title="BOSCH"> </a></div>
                                                 </div>
                                             </div>
@@ -1849,7 +1849,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/brembo_e065/" tabindex="0">
+                                                            href="https://dipacommerce.it/brembo_e065/" tabindex="0">
                                                         <img src="public/1/065.png" title="BREMBO"> </a></div>
                                                 </div>
                                             </div>
@@ -1858,7 +1858,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/castrol_e207/"
+                                                            href="https://dipacommerce.it/castrol_e207/"
                                                             tabindex="0"> <img src="public/1/207.png" title="CASTROL"> </a>
                                                     </div>
                                                 </div>
@@ -1868,7 +1868,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/contitech_e031/"
+                                                            href="https://dipacommerce.it/contitech_e031/"
                                                             tabindex="0"> <img src="public/1/031.png" title="CONTITECH"> </a>
                                                     </div>
                                                 </div>
@@ -1878,7 +1878,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/delphi_e089/" tabindex="0">
+                                                            href="https://dipacommerce.it/delphi_e089/" tabindex="0">
                                                         <img src="public/1/089.png" title="DELPHI"> </a></div>
                                                 </div>
                                             </div>
@@ -1887,7 +1887,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/febi-bilstein_e101/"
+                                                            href="https://dipacommerce.it/febi-bilstein_e101/"
                                                             tabindex="-1"> <img src="public/1/101.png" title="FEBI BILSTEIN">
                                                     </a></div>
                                                 </div>
@@ -1897,7 +1897,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/kyb_e085/" tabindex="-1">
+                                                            href="https://dipacommerce.it/kyb_e085/" tabindex="-1">
                                                         <img src="public/1/085.png" title="KYB"> </a></div>
                                                 </div>
                                             </div>
@@ -1906,7 +1906,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/luk_e006/" tabindex="-1">
+                                                            href="https://dipacommerce.it/luk_e006/" tabindex="-1">
                                                         <img src="public/1/006.png" title="LuK"> </a></div>
                                                 </div>
                                             </div>
@@ -1915,7 +1915,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/monroe_e037/"
+                                                            href="https://dipacommerce.it/monroe_e037/"
                                                             tabindex="-1"> <img src="public/1/037.png" title="MONROE"> </a>
                                                     </div>
                                                 </div>
@@ -1925,7 +1925,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/skf_e050/" tabindex="-1">
+                                                            href="https://dipacommerce.it/skf_e050/" tabindex="-1">
                                                         <img src="public/1/050.png" title="SKF"> </a></div>
                                                 </div>
                                             </div>
@@ -1934,7 +1934,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/trw_e161/" tabindex="-1">
+                                                            href="https://dipacommerce.it/trw_e161/" tabindex="-1">
                                                         <img src="public/1/161.png" title="TRW"> </a></div>
                                                 </div>
                                             </div>
@@ -1943,7 +1943,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/beru_e011/" tabindex="-1">
+                                                            href="https://dipacommerce.it/beru_e011/" tabindex="-1">
                                                         <img src="public/1/011.png" title="BERU"> </a></div>
                                                 </div>
                                             </div>
@@ -1952,7 +1952,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/bosch_e030/" tabindex="-1">
+                                                            href="https://dipacommerce.it/bosch_e030/" tabindex="-1">
                                                         <img src="public/1/030.png" title="BOSCH"> </a></div>
                                                 </div>
                                             </div>
@@ -1961,7 +1961,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/brembo_e065/"
+                                                            href="https://dipacommerce.it/brembo_e065/"
                                                             tabindex="-1"> <img src="public/1/065.png" title="BREMBO"> </a>
                                                     </div>
                                                 </div>
@@ -1971,7 +1971,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/castrol_e207/"
+                                                            href="https://dipacommerce.it/castrol_e207/"
                                                             tabindex="-1"> <img src="public/1/207.png" title="CASTROL"> </a>
                                                     </div>
                                                 </div>
@@ -1981,7 +1981,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/contitech_e031/"
+                                                            href="https://dipacommerce.it/contitech_e031/"
                                                             tabindex="-1"> <img src="public/1/031.png" title="CONTITECH">
                                                     </a></div>
                                                 </div>
@@ -1991,7 +1991,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/delphi_e089/"
+                                                            href="https://dipacommerce.it/delphi_e089/"
                                                             tabindex="-1"> <img src="public/1/089.png" title="DELPHI"> </a>
                                                     </div>
                                                 </div>
@@ -2001,7 +2001,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/febi-bilstein_e101/"
+                                                            href="https://dipacommerce.it/febi-bilstein_e101/"
                                                             tabindex="-1"> <img src="public/1/101.png" title="FEBI BILSTEIN">
                                                     </a></div>
                                                 </div>
@@ -2011,7 +2011,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/kyb_e085/" tabindex="-1">
+                                                            href="https://dipacommerce.it/kyb_e085/" tabindex="-1">
                                                         <img src="public/1/085.png" title="KYB"> </a></div>
                                                 </div>
                                             </div>
@@ -2020,7 +2020,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/luk_e006/" tabindex="-1">
+                                                            href="https://dipacommerce.it/luk_e006/" tabindex="-1">
                                                         <img src="public/1/006.png" title="LuK"> </a></div>
                                                 </div>
                                             </div>
@@ -2029,7 +2029,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/monroe_e037/"
+                                                            href="https://dipacommerce.it/monroe_e037/"
                                                             tabindex="-1"> <img src="public/1/037.png" title="MONROE"> </a>
                                                     </div>
                                                 </div>
@@ -2039,7 +2039,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/skf_e050/" tabindex="-1">
+                                                            href="https://dipacommerce.it/skf_e050/" tabindex="-1">
                                                         <img src="public/1/050.png" title="SKF"> </a></div>
                                                 </div>
                                             </div>
@@ -2048,7 +2048,7 @@ var menuDesktopLogin = "Accedi";</script>
                                                 <div>
                                                     <div class="manufacturer img-link"
                                                          style="width: 100%; display: inline-block;"><a
-                                                            href="https://www.dipacommerce.it/trw_e161/" tabindex="-1">
+                                                            href="https://dipacommerce.it/trw_e161/" tabindex="-1">
                                                         <img src="public/1/161.png" title="TRW"> </a></div>
                                                 </div>
                                             </div>
@@ -2064,12 +2064,12 @@ var menuDesktopLogin = "Accedi";</script>
                         <div class="row">
                             <div class="title">
                                 <div class="ui-with-params" ng-show="1"><h2 class="home-main-section"> Compra i tuoi
-                                    ricambi auto online su Mister-Auto </h2></div>
+                                    ricambi auto online su Dipacommerce </h2></div>
                             </div>
                             <div class="content">
                                 <div class="see-more-content col-md-12" data-length="300">
                                     <div class="block-content" style="height: 300px;"><p>Da quando è stato creato nel
-                                        2007, Mister-Auto si è affermato come uno dei leader europei per la vendita di
+                                        2007, Dipacommerce si è affermato come uno dei leader europei per la vendita di
                                         ricambi auto, offrendo un’ampia selezione di prodotti a <strong>prezzi
                                             straordinari</strong>. Hai bisogno di un ricambio per un modello preciso di
                                         auto? Oppure cerchi pezzi di ricambio di qualità a prezzi da discount? Grazie al
@@ -2079,14 +2079,14 @@ var menuDesktopLogin = "Accedi";</script>
                                         nostro impegno per garantire un servizio eccellente, rapido e di qualità,
                                         abbiamo già potuto soddisfare le esigenze di oltre un milione e mezzo di
                                         clienti, in più di 21 paesi. Approfittane anche tu e compra i tuoi ricambi auto
-                                        online sul sito di Mister-Auto.</p>
+                                        online sul sito di Dipacommerce.</p>
                                         <h2>Ricambi auto originali</h2>
                                         <p>Cerchi un ricambio originale? Sul nostro sito troverai autoricambi originali
-                                            per più <a href="https://www.dipacommerce.it/marche-auto/">di 50 marche
+                                            per più <a href="https://dipacommerce.it/marche-auto/">di 50 marche
                                                 diverse</a>, tra cui Fiat, Alfa Romeo, Audi, BMW, Citroën, Ford,
                                             Mercedes-Benz, Nissan, Peugeot, e molte altre. Grazie al nostro motore di
                                             ricerca interno potrai trovare il ricambio preciso che ti serve, e andare
-                                            sul sicuro. <a href="https://www.dipacommerce.it/ricambi-auto/">Esplora il
+                                            sul sicuro. <a href="https://dipacommerce.it/ricambi-auto/">Esplora il
                                                 nostro catalogo</a> in tutta facilità, e trova il pezzo che ti serve.
                                             Una volta selezionato il tipo di ricambio, potrai fare poi una ricerca per
                                             marca, modello e cilindrata. Oppure, ancora più semplicemente, potrai fare
@@ -2095,22 +2095,22 @@ var menuDesktopLogin = "Accedi";</script>
                                         <h2>Qualità e sicurezza a prezzi imbattibili</h2>
                                         <p>Nel nostro catalogo potrai anche fare una ricerca per costruttore di pezzi di
                                             ricambio; troverai tutti <a
-                                                    href="https://www.dipacommerce.it/produttori-auto/">i maggiori
+                                                    href="https://dipacommerce.it/produttori-auto/">i maggiori
                                                 produttori di ricambi</a>, come BOSCH, Castrol, Eni, Valeo, Continental,
                                             SKF, KYB, Luk, Mann Filter, Delphi, e molti altri. I ricambi di questi
                                             fornitori sono equivalenti a quelli originali. <strong>Dai un’occhiata alla
                                                 nostra selezione online</strong> e al nostro catalogo di oltre 300.000
                                             ricambi auto e accessori di più di 90 produttori.</p>
-                                        <p>Tutti i ricambi auto disponibili su Mister-Auto sono omologati e rispettano
+                                        <p>Tutti i ricambi auto disponibili su Dipacommerce sono omologati e rispettano
                                             gli standard europei di qualità e sicurezza: comprando sul nostro sito, sei
                                             sicuro di acquistare prodotti affidabili e certificati, fatti per durare a
                                             lungo. Oltre a offrirti la più grande qualità, garantiamo anche il più
                                             grande risparmio. Comprando direttamente dai produttori, infatti, siamo in
                                             grado di offrirti prezzi altamente competitivi, fino al 60% in meno rispetto
-                                            ai prezzi dei ricambisti. Comprare ricambi auto online con Mister-Auto
+                                            ai prezzi dei ricambisti. Comprare ricambi auto online con Dipacommerce
                                             conviene!</p>
-                                        <h2>Perché comprare ricambi auto su Mister-Auto?</h2>
-                                        <p>Affidabilità, qualità, velocità del servizio. Dal 2007, Mister-Auto ha avuto
+                                        <h2>Perché comprare ricambi auto su Dipacommerce?</h2>
+                                        <p>Affidabilità, qualità, velocità del servizio. Dal 2007, Dipacommerce ha avuto
                                             una sola priorità: la soddisfazione del cliente. Ecco perché, oltre a
                                             offrirti i prezzi più bassi, mettiamo a disposizione anche molti altri
                                             servizi, tra cui: </p>
@@ -2121,7 +2121,7 @@ var menuDesktopLogin = "Accedi";</script>
                                             <li>pagamento facile e sicuro</li>
                                             <li>diritto di recesso entro 15 giorni</li>
                                         </ul>
-                                        <p>Sul sito di Mister-Auto, <strong>potrai acquistare i tuoi ricambi online 24
+                                        <p>Sul sito di Dipacommerce, <strong>potrai acquistare i tuoi ricambi online 24
                                             ore su 24</strong>, in tutta comodità. Accettiamo per il pagamento tutte le
                                             principali carte di credito e di debito, oltre a bonifici bancari,
                                             Contrassegno e PayPal. Se hai domande, dubbi, o se hai bisogno di aiuto per
@@ -2165,7 +2165,7 @@ var menuDesktopLogin = "Accedi";</script>
                 <div class="col-md-6">
                     <div class="footer-block-newsletter">
                         <div class="title">Newsletter</div>
-                        <form id="newsletter" method="post" action="https://www.dipacommerce.it/newsletter.html"
+                        <form id="newsletter" method="post" action="https://dipacommerce.it/newsletter.html"
                               class="ng-pristine ng-valid"><input type="text" value="" name="news[email]"
                                                                   placeholder="Iscriviti alla newsletter" id="email">
                             <button class="btn btn-tertiary"> VAI </button> </form>
@@ -2196,12 +2196,12 @@ var menuDesktopLogin = "Accedi";</script>
                 <div class="footer-block-title"><span>Desideri effettuare un ordine?</span></div>
                 <div class="footer-block-list">
                     <ul>
-                        <li><a href="https://www.dipacommerce.it/aiuto.html#unit-1">Come si ordina?</a></li>
-                        <li><a href="https://www.dipacommerce.it/garanzie.html#unit-1">Modalità di consegna</a></li>
-                        <li><a href="https://www.dipacommerce.it/garanzie.html#unit-2">Modalità di pagamento</a></li>
-                        <li><a href="https://www.dipacommerce.it/mioconto/ordini.html">Segui il tuo ordine</a></li>
-                        <li><a href="https://www.dipacommerce.it/aiuto.html#unit-3">Ritorno e Rimborso</a></li>
-                        <li><a href="https://www.dipacommerce.it/contatti.html">Contattaci</a></li>
+                        <li><a href="https://dipacommerce.it/aiuto.html#unit-1">Come si ordina?</a></li>
+                        <li><a href="https://dipacommerce.it/garanzie.html#unit-1">Modalità di consegna</a></li>
+                        <li><a href="https://dipacommerce.it/garanzie.html#unit-2">Modalità di pagamento</a></li>
+                        <li><a href="https://dipacommerce.it/mioconto/ordini.html">Segui il tuo ordine</a></li>
+                        <li><a href="https://dipacommerce.it/aiuto.html#unit-3">Ritorno e Rimborso</a></li>
+                        <li><a href="https://dipacommerce.it/contatti.html">Contattaci</a></li>
                     </ul>
                 </div>
             </div>
@@ -2209,9 +2209,9 @@ var menuDesktopLogin = "Accedi";</script>
                 <div class="footer-block-title"><span>Informazioni pratiche</span></div>
                 <div class="footer-block-list">
                     <ul>
-                        <li><a href="https://www.dipacommerce.it/chi-siamo-noi.html">Chi siamo</a></li>
-                        <li><a href="https://www.dipacommerce.it/faq/">FAQ</a></li>
-                        <li><a href="https://www.dipacommerce.it/newsletter.html">Iscriviti alla newsletter</a></li>
+                        <li><a href="https://dipacommerce.it/chi-siamo-noi.html">Chi siamo</a></li>
+                        <li><a href="https://dipacommerce.it/faq/">FAQ</a></li>
+                        <li><a href="https://dipacommerce.it/newsletter.html">Iscriviti alla newsletter</a></li>
                     </ul>
                 </div>
             </div>
@@ -2220,19 +2220,19 @@ var menuDesktopLogin = "Accedi";</script>
                 <div class="footer-block-list">
                     <div class="listing">
                         <ul class="list">
-                            <li><a class="brand-linklabel " href="https://www.dipacommerce.it/ricambi-fiat-v35/">
+                            <li><a class="brand-linklabel " href="https://dipacommerce.it/ricambi-fiat-v35/">
                                 FIAT</a></li>
-                            <li><a class="brand-linklabel " href="https://www.dipacommerce.it/ricambi-ford-v36/">
+                            <li><a class="brand-linklabel " href="https://dipacommerce.it/ricambi-ford-v36/">
                                 FORD</a></li>
-                            <li><a class="brand-linklabel " href="https://www.dipacommerce.it/ricambi-opel-v84/">
+                            <li><a class="brand-linklabel " href="https://dipacommerce.it/ricambi-opel-v84/">
                                 OPEL</a></li>
-                            <li><a class="brand-linklabel " href="https://www.dipacommerce.it/ricambi-volkswagen-v121/">
+                            <li><a class="brand-linklabel " href="https://dipacommerce.it/ricambi-volkswagen-v121/">
                                 VOLKSWAGEN</a></li>
-                            <li><a class="brand-linklabel " href="https://www.dipacommerce.it/ricambi-renault-v93/">
+                            <li><a class="brand-linklabel " href="https://dipacommerce.it/ricambi-renault-v93/">
                                 RENAULT</a></li>
                         </ul>
                     </div>
-                    <a href="https://www.dipacommerce.it/marche-auto/"><i class="fa fa-etsy" aria-hidden="true"></i>Le nostre marche</a>
+                    <a href="https://dipacommerce.it/marche-auto/"><i class="fa fa-etsy" aria-hidden="true"></i>Le nostre marche</a>
                 </div>
             </div>
             <div class="col-md-3">
@@ -2240,19 +2240,19 @@ var menuDesktopLogin = "Accedi";</script>
                 <div class="footer-block-list">
                     <div class="listing">
                         <ul class="list">
-                            <li><a class="manufacturer-linklabel " href="https://www.dipacommerce.it/bosch_e030/">
+                            <li><a class="manufacturer-linklabel " href="https://dipacommerce.it/bosch_e030/">
                                 BOSCH</a></li>
-                            <li><a class="manufacturer-linklabel " href="https://www.dipacommerce.it/mann-filter_e004/">
+                            <li><a class="manufacturer-linklabel " href="https://dipacommerce.it/mann-filter_e004/">
                                 MANN-FILTER</a></li>
-                            <li><a class="manufacturer-linklabel " href="https://www.dipacommerce.it/ferodo_e062/">
+                            <li><a class="manufacturer-linklabel " href="https://dipacommerce.it/ferodo_e062/">
                                 FERODO</a></li>
-                            <li><a class="manufacturer-linklabel " href="https://www.dipacommerce.it/brembo_e065/">
+                            <li><a class="manufacturer-linklabel " href="https://dipacommerce.it/brembo_e065/">
                                 BREMBO</a></li>
-                            <li><a class="manufacturer-linklabel " href="https://www.dipacommerce.it/castrol_e207/">
+                            <li><a class="manufacturer-linklabel " href="https://dipacommerce.it/castrol_e207/">
                                 CASTROL</a></li>
                         </ul>
                     </div>
-                    <a href="https://www.dipacommerce.it/produttori-auto/"><i class="fa fa-etsy" aria-hidden="true"></i>I nostri
+                    <a href="https://dipacommerce.it/produttori-auto/"><i class="fa fa-etsy" aria-hidden="true"></i>I nostri
                         fornitori</a></div>
             </div>
         </div>
@@ -2260,17 +2260,17 @@ var menuDesktopLogin = "Accedi";</script>
             <div class="col-sm-6">
                 <div id="footer-block-contact">
                     <div class="contact-us"><strong> Contattaci al </strong></div>
-                    <span class="load-phone-number">01 44 23 01 03</span>
+                    <span class="load-phone-number">0523-509862</span>
                     <div class="schedule">dal lunedì al venerdì dalle 9 alle 19</div>
                 </div>
             </div>
             <div class="col-sm-6">
                 <div class="flags footer-row row flag-module">
-                    <div class="default col-md-12 dropup"><p class="flags-title">Mister Auto è presente in 19 paesi</p>
-                        <a href="https://www.dipacommerce.it/#" class="flags-btn dropdown-toggle" data-toggle="dropdown">
+                    <div class="default col-md-12 dropup"><p class="flags-title">Dipacommerce è presente in 19 paesi</p>
+                        <a href="https://dipacommerce.it/#" class="flags-btn dropdown-toggle" data-toggle="dropdown">
                             <span class="flag-group"> <span class="flag flag-IT"></span> <span
                                     class="flag-label">Italia</span><i class="fa fa-etsy"></i></span> </a>
-                        <div class="dropdown-menu"><p class="flags-title">Mister Auto è presente in 19 paesi</p>
+                        <div class="dropdown-menu"><p class="flags-title">Dipacommerce è presente in 19 paesi</p>
                             <ul class="flags">
                                 <li><span class="flag-group"
                                           onclick="window.location='https://www.dipacommerce.com/';"
@@ -2313,10 +2313,9 @@ var menuDesktopLogin = "Accedi";</script>
                                           style="cursor: pointer;"> <span class="flag flag-ES"></span> <span
                                         class="flag-label">Spagna</span><i class="fa fa-etsy" aria-hidden="true"></i></span></li>
                                 <li class="active-flag"><span class="flag-group"
-                                                              onclick="window.location='https://www.dipacommerce.it/';"
+                                                              onclick="window.location='https://dipacommerce.it/';"
                                                               style="cursor: pointer;"> <span
-                                        class="flag flag-IT"></span> <span class="flag-label">Italia</span> <i
-                                        class="mf mf-checked"></i> </span></li>
+                                        class="flag flag-IT"></span> <span class="flag-label">Italia</span> <i class="fa fa-etsy"></i> </span></li>
                                 <li><span class="flag-group"
                                           onclick="window.location='https://www.dipacommerce.co.uk/';"
                                           style="cursor: pointer;"> <span class="flag flag-GB"></span> <span
@@ -2423,18 +2422,7 @@ var menuDesktopLogin = "Accedi";</script>
                 </div>
             </div>
             <div class="footer-row row">
-                <div class="col-xs-12"><p class="footer-text-br"> MISTER-AUTO.IT Via Valfrè 14 10121 TORINO ITALIA </p>
-                </div>
-            </div>
-            <div class="col-xs-12">
-                <div id="footer-dipacommerce-copyright">
-                    <ul class="links">
-                        <li><a href="https://www.dipacommerce.it/cgv.html">CGV</a></li>
-                        -
-                        <li><a href="https://www.dipacommerce.it/privacy-policy/">Informativa privacy</a></li>
-                        -
-                        <li> 2007 - 2019 © Mister Auto</li>
-                    </ul>
+                <div class="col-xs-12"><p class="footer-text-br"> Di.Pa. Sport Srl. - Via Della Chiusa, 34 - 29010 Roveleto di Cadeo (PC) - Tel: +39.0523.509862 - P.IVA 01508220330 - Tutti i marchi e codici automobilistici sono di proprietà dei legittimi proprietari. </p>
                 </div>
             </div>
         </div>
@@ -2521,14 +2509,14 @@ var menuDesktopLogin = "Accedi";</script>
         "row_1": ["visa", "eurocard_mastercard", "postepay", "paypal"],
         "row_2": ["bartolini", "cartasi", "sofort"]
     },
-    "serviceNumber": "01 44 23 01 03",
+    "serviceNumber": "0523-509862",
     "serviceNumberLink": "0144230103",
     "googleTagManagerId": "GTM-P9RFHN",
     "isMisterAutoIp": false,
     "openGraph": {
         "appId": "1493951624164660",
         "image": "https:\/\/static.cdn.dipacommerce.com\/front\/commons\/misterauto\/img\/ma-social-logo.png",
-        "siteName": "Mister-Auto"
+        "siteName": "Dipacommerce"
     }
 }, category_id = 0, family_id = 0, generic_id = 0, attributes = [];
 var context = {
@@ -2593,10 +2581,10 @@ var dataApp = angular.module('dataApp'); //--></script>
 <script src="public/1/script8.min.js"></script>
 <script src="public/1/script9.min.js"></script>
 <script type="application/ld+json">
-     { "@context": "https://schema.org", "@id": "https://www.dipacommerce.com/#organization" , "@type": "Organization", "name": "Mister-Auto", "url": "https://www.dipacommerce.it", "logo": "https://fr-static.cdn.dipacommerce.com/img/commun/main/header/logo-ma-grey.png", "contactPoint": [ { "@type": "ContactPoint", "telephone": "+33892181181", "contactType": "customer support", "areaServed": ["IT"] } ], "sameAs": [ "https://www.facebook.com/misterauto.france/", "https://plus.google.com/+misterauto/posts?rel=author", "https://twitter.com/misterauto", "https://www.youtube.com/user/misterautofr", "https://fr.wikipedia.org/wiki/Mister-Auto" ] }
+     { "@context": "https://schema.org", "@id": "https://www.dipacommerce.com/#organization" , "@type": "Organization", "name": "Dipacommerce", "url": "https://www.dipacommerce.it", "logo": "https://fr-static.cdn.dipacommerce.com/img/commun/main/header/logo-ma-grey.png", "contactPoint": [ { "@type": "ContactPoint", "telephone": "+33892181181", "contactType": "customer support", "areaServed": ["IT"] } ], "sameAs": [ "https://www.facebook.com/misterauto.france/", "https://plus.google.com/+misterauto/posts?rel=author", "https://twitter.com/misterauto", "https://www.youtube.com/user/misterautofr", "https://fr.wikipedia.org/wiki/Dipacommerce" ] }
 </script>
 <script type="application/ld+json">
-     { "@context": "https://schema.org", "@id": "https://www.dipacommerce.com/#website", "@type": "WebSite", "url": "https://www.dipacommerce.it", "name": "Mister-Auto", "potentialAction": { "@type": "SearchAction", "target": "" , "query-input": "" } }
+     { "@context": "https://schema.org", "@id": "https://www.dipacommerce.com/#website", "@type": "WebSite", "url": "https://www.dipacommerce.it", "name": "Dipacommerce", "potentialAction": { "@type": "SearchAction", "target": "" , "query-input": "" } }
 </script>
 <span id="check-alive" style="display:none;">832d8e99543c9eb6058233655e7e90e0</span>
 <script async="" defer="" src="public/1/api.js"></script>

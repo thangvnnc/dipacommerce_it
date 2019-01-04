@@ -13,10 +13,7 @@ class MainController extends Controller {
     }
 
     public function index() {
-        $queryMenus = ZMenu::query();
-        $queryMenus = $queryMenus->where('status', 1)->orderBy('id', 'asc');
-        $menus = $queryMenus->get();
-        return view('index', ['menus' => $menus]);
+        return view('index', ['menus' => $this->getMenus()]);
     }
 
     public function accessori_type() {
@@ -24,7 +21,7 @@ class MainController extends Controller {
         $queryAccessoriType = $queryAccessoriType->orderBy('id', 'asc');
         $accessoriTypes = $queryAccessoriType->get();
 
-        return view('accessori_type', ['accessoriTypes' => $accessoriTypes]);
+        return view('accessori_type', ['accessoriTypes' => $accessoriTypes, 'menus' => $this->getMenus()]);
     }
 
     public function accessori_group() {
@@ -34,7 +31,7 @@ class MainController extends Controller {
 
         foreach ($accessoriGroups as $accessoriGroup) $accessoriGroup->setGlobalItems();
 
-        return view('accessori_group', ['accessoriGroups'=>$accessoriGroups]);
+        return view('accessori_group', ['accessoriGroups'=>$accessoriGroups, 'menus' => $this->getMenus()]);
     }
 
     public function accessori_item(Request $request) {
@@ -45,17 +42,24 @@ class MainController extends Controller {
 
         $items = ZAccessoriItem::where('id_group_item', $item_group)->orderBy('id', 'asc')->get();
 
-        return view('accessori_item', ['items' => $items]);
+        return view('accessori_item', ['items' => $items, 'menus' => $this->getMenus()]);
     }
 
     public function accessori_item_detail() {
-        return view('accessori_item_detail');
+        return view('accessori_item_detail', ['menus' => $this->getMenus()]);
     }
 
-    public function test() {
+    public function getMenus() {
         $queryMenus = ZMenu::query();
         $queryMenus = $queryMenus->where('status', 1)->orderBy('id', 'asc');
-        $menus = $queryMenus->get();
-        return json_encode($menus);
+        return $queryMenus->get();
     }
+
+//    public function test() {
+//        $queryMenus = ZMenu::query();
+//        $queryMenus = $queryMenus->where('status', 1)->orderBy('id', 'asc');
+//        $menus = $queryMenus->get();
+//        return json_encode($menus);
+//    }
+
 }
