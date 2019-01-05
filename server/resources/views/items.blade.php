@@ -33,7 +33,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=8"/> <![endif]-->
     <!--[if gte IE 11]>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge"/> <![endif]-->
-    <title>Attrezzatura per soccorso stradale : attrezzatura per soccorso stradale in vendita on-line</title>
+    <title>Products</title>
     <link rel="stylesheet" href="public/1/font-awesome.min.css">
     <link rel="canonical"
           href="https://dipacommerce.it/accessori-auto/attrezzatura-per-soccorso-stradale_bg900013.html">

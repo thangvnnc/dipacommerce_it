@@ -2,10 +2,10 @@
 
 namespace App\Http\Controllers;
 
-use App\ZAccessoriGroup;
-use App\ZAccessoriItem;
-use App\ZAccessoriType;
-use App\ZMenu;
+use App\ZGroups;
+use App\ZItems;
+use App\ZTypes;
+use App\ZMenus;
 use Illuminate\Http\Request;
 
 class MainController extends Controller {
@@ -16,47 +16,53 @@ class MainController extends Controller {
         return view('index', ['menus' => $this->getMenus()]);
     }
 
-    public function accessori_type() {
-        $queryAccessoriType = ZAccessoriType::query();
-        $queryAccessoriType = $queryAccessoriType->orderBy('id', 'asc');
-        $accessoriTypes = $queryAccessoriType->get();
+    public function types() {
+        $queryTypes = ZTypes::query();
+        $queryTypes = $queryTypes->orderBy('id', 'asc');
+        $types = $queryTypes->get();
 
-        return view('accessori_type', ['accessoriTypes' => $accessoriTypes, 'menus' => $this->getMenus()]);
+        return view('types', ['types' => $types, 'menus' => $this->getMenus()]);
     }
 
-    public function accessori_group() {
-        $queryAccessoriGroup = ZAccessoriGroup::query();
-        $queryAccessoriGroup = $queryAccessoriGroup->orderBy('id', 'asc');
-        $accessoriGroups = $queryAccessoriGroup->get();
-
-        foreach ($accessoriGroups as $accessoriGroup) $accessoriGroup->setGlobalItems();
-
-        return view('accessori_group', ['accessoriGroups'=>$accessoriGroups, 'menus' => $this->getMenus()]);
-    }
-
-    public function accessori_item(Request $request) {
-        $item_group = -1;
-        if ($request->has('item_group')) {
-            $item_group = $request->get('item_group');
+    public function groups(Request $request) {
+        $id_type = -1;
+        if ($request->has('id_type')) {
+            $id_type = $request->get('id_type');
         }
 
-        $items = ZAccessoriItem::where('id_group_item', $item_group)->orderBy('id', 'asc')->get();
+        $queryGroups = ZGroups::query();
+        $queryGroups = $queryGroups->where('id_type', $id_type);
+        $queryGroups = $queryGroups->orderBy('id', 'asc');
+        $groups = $queryGroups->get();
 
-        return view('accessori_item', ['items' => $items, 'menus' => $this->getMenus()]);
+        foreach ($groups as $group) $group->setGlobalItems();
+
+        return view('groups', ['groups'=>$groups, 'menus' => $this->getMenus()]);
     }
 
-    public function accessori_item_detail() {
-        return view('accessori_item_detail', ['menus' => $this->getMenus()]);
+    public function items(Request $request) {
+        $id_group_item = -1;
+        if ($request->has('id_group_item')) {
+            $id_group_item = $request->get('id_group_item');
+        }
+
+        $items = ZItems::where('id_group_item', $id_group_item)->orderBy('id', 'asc')->get();
+
+        return view('items', ['items' => $items, 'menus' => $this->getMenus()]);
+    }
+
+    public function item_detail() {
+        return view('item_detail', ['menus' => $this->getMenus()]);
     }
 
     public function getMenus() {
-        $queryMenus = ZMenu::query();
+        $queryMenus = ZMenus::query();
         $queryMenus = $queryMenus->where('status', 1)->orderBy('id', 'asc');
         return $queryMenus->get();
     }
 
 //    public function test() {
-//        $queryMenus = ZMenu::query();
+//        $queryMenus = ZMenus::query();
 //        $queryMenus = $queryMenus->where('status', 1)->orderBy('id', 'asc');
 //        $menus = $queryMenus->get();
 //        return json_encode($menus);

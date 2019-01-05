@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Bootstrap Admin Theme</title>
+    <title>Dipacommerce</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="/public/admin/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -18,7 +18,7 @@
     <link href="/public/admin/vendor/metisMenu/metisMenu.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="./dist/css/sb-admin-2.css" rel="stylesheet">
+    <link href="/public/admin/dist/css/sb-admin-2.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="/public/admin/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -33,30 +33,30 @@
 </head>
 
 <body>
-
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-md-offset-4">
                 <div class="login-panel panel panel-default">
                     <div class="panel-heading">
-                        <h3 class="panel-title">Please Sign In</h3>
+                        <h3 class="panel-title">Sign In</h3>
                     </div>
                     <div class="panel-body">
-                        <form role="form">
+                        <form class="frm_login" role="form" action="/admin/login" method="post">
+                            @csrf
                             <fieldset>
                                 <div class="form-group">
-                                    <input class="form-control" placeholder="E-mail" name="email" type="email" autofocus>
+                                    <input required="true" class="form-control ip_username" placeholder="Username" name="username" type="text" autofocus>
                                 </div>
                                 <div class="form-group">
-                                    <input class="form-control" placeholder="Password" name="password" type="password" value="">
+                                    <input required="true" class="form-control ip_password" placeholder="Password" name="password" type="password" value="">
                                 </div>
-                                <div class="checkbox">
-                                    <label>
-                                        <input name="remember" type="checkbox" value="Remember Me">Remember Me
-                                    </label>
-                                </div>
+                                {{--<div class="checkbox">--}}
+                                    {{--<label>--}}
+                                        {{--<input name="remember" type="checkbox" value="Remember Me">Remember Me--}}
+                                    {{--</label>--}}
+                                {{--</div>--}}
                                 <!-- Change this to a button or input when using this as a form -->
-                                <a href="/admin/home" class="btn btn-lg btn-success btn-block">Login</a>
+                                <a href="javascript: void(0);" class="btn btn-lg btn-success btn-block btn-login">Login</a>
                             </fieldset>
                         </form>
                     </div>
@@ -75,8 +75,37 @@
     <script src="/public/admin/vendor/metisMenu/metisMenu.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="./dist/js/sb-admin-2.js"></script>
+    <script src="/public/admin/dist/js/sb-admin-2.js"></script>
 
+    <script src="/public/admin/js/message.js"></script>
+
+    <script>
+        $(".btn-login").on('click', function (event) {
+            let username = $(".ip_username").val();
+            let password = $(".ip_password").val();
+
+            let isValidUsername = regex.test(username);
+            let isValidPassword = regex.test(password);
+
+            if (isValidUsername === false) {
+                showMessage(usernameRequired);
+                return;
+            }
+
+            if (isValidPassword === false) {
+                showMessage(passwordRequired);
+                // $('.alertMessage').html(passwordRequired);
+                // $(".alertModal").modal('show');
+                return;
+            }
+            $(".frm_login").submit();
+        });
+    </script>
+
+    @if(isset($message))
+        <script>
+            showMessage("{{$message->getContent()}}");
+        </script>
+    @endif
 </body>
-
 </html>

@@ -1,29 +1,29 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!-- saved from url=(0072)https://dipacommerce.it/accessori-auto/guasti-e-sicurezza_blc610.html -->
+<!-- saved from url=(0042)https://dipacommerce.it/accessori-auto/ -->
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it-IT" xml:lang="it-IT"><!--<![endif]-->
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <script src="public/accessori_group_files/dataPipeline.js.download"></script>
-    <script src="public/accessori_group_files/vcard.js.download"></script>
-    <script src="public/accessori_group_files/misterauto.js.download"></script>
-    <script src="public/accessori_group_files/targeting.js.download"></script>
-    <script src="public/accessori_group_files/common.js.download"></script>
-    <script src="public/accessori_group_files/live.2.php"></script>
-    <script src="public/accessori_group_files/live.1.php"></script>
+    <script src="public/accessori_type/dataPipeline.js.download"></script>
+    <script src="public/accessori_type/vcard.js.download"></script>
+    <script src="public/accessori_type/misterauto.js.download"></script>
+    <script src="public/accessori_type/targeting.js.download"></script>
+    <script src="public/accessori_type/common.js.download"></script>
+    <script src="public/accessori_type/live.2.php"></script>
+    <script src="public/accessori_type/live.1.php"></script>
 
-    <script type="text/javascript" async="" src="public/accessori_group_files/ec.js.download"></script>
-    <script type="text/javascript" async="" src="public/accessori_group_files/iadvize.js.download"></script>
-    <script src="public/accessori_group_files/bat.js.download" async=""></script>
+    <script type="text/javascript" async="" src="public/accessori_type/ec.js.download"></script>
+    <script type="text/javascript" async="" src="public/accessori_type/iadvize.js.download"></script>
+    <script src="public/accessori_type/bat.js.download" async=""></script>
     <script type="text/javascript" async="" charset="UTF-8"
-            src="public/accessori_group_files/sr-misterauto.js.download"></script>
-    <script type="text/javascript" async="" src="public/accessori_group_files/f.txt"></script>
-    <script type="text/javascript" async="" src="public/accessori_group_files/analytics.js.download"></script>
-    <script async="" src="public/accessori_group_files/gtm.js.download"></script>
+            src="public/accessori_type/sr-misterauto.js.download"></script>
+    <script type="text/javascript" async="" src="public/accessori_type/f.txt"></script>
+    <script type="text/javascript" async="" src="public/accessori_type/analytics.js.download"></script>
+    <script async="" src="public/accessori_type/gtm.js.download"></script>
     <script type="text/javascript" async="" charset="UTF-8"
-            src="public/accessori_group_files/sr-misterauto.js.download"></script>
-    <script type="text/javascript" async="" src="public/accessori_group_files/recaptcha__it.js.download"></script>
-    <script async="" charset="utf-8" src="public/accessori_group_files/saved_resource" type="text/javascript"></script>
-    <script type="text/javascript" src="public/accessori_group_files/08ac66bba7e5a7371b996668ac68a58d.js.download"></script>
+            src="public/accessori_type/sr-misterauto.js.download"></script>
+    <script type="text/javascript" async="" src="public/accessori_type/recaptcha__it.js.download"></script>
+    <script async="" charset="utf-8" src="public/accessori_type/saved_resource" type="text/javascript"></script>
+    <script type="text/javascript" src="public/accessori_type/08ac66bba7e5a7371b996668ac68a58d.js.download"></script>
 
 
     <meta http-equiv="Content-Language" content="it-IT">
@@ -31,73 +31,45 @@
     <meta http-equiv="X-UA-Compatible" content="IE=8"/> <![endif]-->
     <!--[if gte IE 11]>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge"/> <![endif]-->
-    <title>Guasti e sicurezza : scopri i prodotti della categoria guasti e sicurezza</title>
+    <title>Types</title>
     <link rel="stylesheet" href="public/1/font-awesome.min.css">
-    <link rel="canonical" href="https://dipacommerce.it/accessori-auto/guasti-e-sicurezza_blc610.html">
-    <link rel="alternate" media="only screen and (max-width: 640px)"
-          href="https://m.dipacommerce.it/accessori-auto/guasti-e-sicurezza_blc610.html">
-    <link rel="alternate" href="https://www.dipacommerce.com/accessoires-auto/depannage-et-securite_blc610.html"
-          hreflang="x-default">
-    <link rel="alternate" href="https://www.dipacommerce.com/accessoires-auto/depannage-et-securite_blc610.html"
-          hreflang="fr-FR">
-    <link rel="alternate" href="https://www.dipacommerce.nl/accessoires-onderhoud/pechhulp-en-veiligheid_blc610.html"
-          hreflang="nl-NL">
-    <link rel="alternate" href="https://www.dipacommerce.be/fr/accessoires-auto/depannage-et-securite_blc610.html"
-          hreflang="fr-BE">
-    <link rel="alternate" href="https://www.dipacommerce.be/fl/accessoires-onderhoud/pechhulp-en-veiligheid_blc610.html"
-          hreflang="nl-BE">
-    <link rel="alternate" href="https://www.dipacommerce.de/zubehoer-pflege/pannenhilfe-sicherheitsartikel_blc610.html"
-          hreflang="de-DE">
-    <link rel="alternate" href="https://www.dipacommerce.at/zubehoer-pflege/pannenhilfe-sicherheitsartikel_blc610.html"
-          hreflang="de-AT">
-    <link rel="alternate" href="https://www.dipacommerce.lu/fr/accessoires-auto/depannage-et-securite_blc610.html"
-          hreflang="fr-LU">
-    <link rel="alternate"
-          href="https://www.dipacommerce.lu/de/zubehoer-pflege/pannenhilfe-sicherheitsartikel_blc610.html"
-          hreflang="de-LU">
-    <link rel="alternate"
-          href="https://www.dipacommerce.es/accesorios-coche/equipamiento-averias-y-seguridad_blc610.html"
-          hreflang="es-ES">
-    <link rel="alternate" href="https://dipacommerce.it/accessori-auto/guasti-e-sicurezza_blc610.html"
-          hreflang="it-IT">
-    <link rel="alternate" href="https://www.dipacommerce.co.uk/car-accessories/safety-security_blc610.html"
-          hreflang="en-GB">
-    <link rel="alternate" href="https://www.dipacommerce.ie/car-accessories/safety-security_blc610.html"
-          hreflang="en-IE">
-    <link rel="alternate" href="https://www.dipacommerce.pt/acessorios-auto/desempanagem-e-seguranca_blc610.html"
-          hreflang="pt-PT">
-    <link rel="alternate" href="https://www.dipacommerce.fi/autotarvikkeet/korjaus-ja-turvallisuus_blc610.html"
-          hreflang="fi-FI">
-    <link rel="alternate" href="https://www.dipacommerce.se/biltillbehor/reparation-och-sakerhet_blc610.html"
-          hreflang="sv-SE">
-    <link rel="alternate" href="https://www.dipacommerce.dk/biltilbehoer/hjalp-og-sikkerhedsudstyr_blc610.html"
-          hreflang="da-DK">
-    <link rel="alternate"
-          href="https://www.dipacommerce.ch/de/zubehoer-pflege/pannenhilfe-sicherheitsartikel_blc610.html"
-          hreflang="de-CH">
-    <link rel="alternate" href="https://www.dipacommerce.ch/fr/accessoires-auto/depannage-et-securite_blc610.html"
-          hreflang="fr-CH">
-    <link rel="alternate" href="https://www.dipacommerce.no/biltilbehoer/bilassistanse-og-sikkerhet_blc610.html"
-          hreflang="no-NO">
-    <link rel="alternate" href="https://www.dipacommerce.re/accessoires-auto/depannage-et-securite_blc610.html"
-          hreflang="fr-RE">
-    <link rel="alternate" href="https://www.dipacommerce.gp/accessoires-auto/depannage-et-securite_blc610.html"
-          hreflang="fr-GP">
-    <link rel="alternate" href="https://www.dipacommerce.mq/accessoires-auto/depannage-et-securite_blc610.html"
-          hreflang="fr-MQ">
-    <link rel="alternate" href="https://www.dipacommerce.gf/accessoires-auto/depannage-et-securite_blc610.html"
-          hreflang="fr-GF">
-    <meta property="og:title" content="Guasti e sicurezza : scopri i prodotti della categoria guasti e sicurezza">
-    <meta property="og:url" content="https://dipacommerce.it/accessori-auto/guasti-e-sicurezza_blc610.html">
+    <link rel="canonical" href="https://dipacommerce.it/accessori-auto/">
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.dipacommerce.it/accessori-auto/">
+    <link rel="alternate" href="https://www.dipacommerce.com/accessoires-auto/" hreflang="x-default">
+    <link rel="alternate" href="https://www.dipacommerce.com/accessoires-auto/" hreflang="fr-FR">
+    <link rel="alternate" href="https://www.dipacommerce.nl/accessoires-onderhoud/" hreflang="nl-NL">
+    <link rel="alternate" href="https://www.dipacommerce.be/fr/accessoires-auto/" hreflang="fr-BE">
+    <link rel="alternate" href="https://www.dipacommerce.be/fl/accessoires-onderhoud/" hreflang="nl-BE">
+    <link rel="alternate" href="https://www.dipacommerce.de/zubehoer-pflege/" hreflang="de-DE">
+    <link rel="alternate" href="https://www.dipacommerce.at/zubehoer-pflege/" hreflang="de-AT">
+    <link rel="alternate" href="https://www.dipacommerce.lu/fr/accessoires-auto/" hreflang="fr-LU">
+    <link rel="alternate" href="https://www.dipacommerce.lu/de/zubehoer-pflege/" hreflang="de-LU">
+    <link rel="alternate" href="https://www.dipacommerce.es/accesorios-coche/" hreflang="es-ES">
+    <link rel="alternate" href="https://dipacommerce.it/accessori-auto/" hreflang="it-IT">
+    <link rel="alternate" href="https://www.dipacommerce.co.uk/car-accessories/" hreflang="en-GB">
+    <link rel="alternate" href="https://www.dipacommerce.ie/car-accessories/" hreflang="en-IE">
+    <link rel="alternate" href="https://www.dipacommerce.pt/acessorios-auto/" hreflang="pt-PT">
+    <link rel="alternate" href="https://www.dipacommerce.fi/autotarvikkeet/" hreflang="fi-FI">
+    <link rel="alternate" href="https://www.dipacommerce.se/biltillbehor/" hreflang="sv-SE">
+    <link rel="alternate" href="https://www.dipacommerce.dk/biltilbehoer/" hreflang="da-DK">
+    <link rel="alternate" href="https://www.dipacommerce.ch/de/zubehoer-pflege/" hreflang="de-CH">
+    <link rel="alternate" href="https://www.dipacommerce.ch/fr/accessoires-auto/" hreflang="fr-CH">
+    <link rel="alternate" href="https://www.dipacommerce.no/biltilbehoer/" hreflang="no-NO">
+    <link rel="alternate" href="https://www.dipacommerce.re/accessoires-auto/" hreflang="fr-RE">
+    <link rel="alternate" href="https://www.dipacommerce.gp/accessoires-auto/" hreflang="fr-GP">
+    <link rel="alternate" href="https://www.dipacommerce.mq/accessoires-auto/" hreflang="fr-MQ">
+    <link rel="alternate" href="https://www.dipacommerce.gf/accessoires-auto/" hreflang="fr-GF">
+    <meta property="og:title" content="Types auto - Tutto per la manutenzione">
+    <meta property="og:url" content="https://dipacommerce.it/accessori-auto/">
     <meta property="og:image"
           content="https://static.cdn.dipacommerce.com/front/commons/misterauto/img/ma-social-logo.png">
     <meta property="og:description"
-          content="Ordina gli articoli che desideri nella nostra categoria di accessori   e risparmia fino al 60">
+          content="Vendita di accessori scontati su Dipacommerce, lo specialista in accessori auto per la manutenzione della tua automobile. Scopri il nostro ampio catalogo di ricambi auto a basso costo e tutte le nostre ultime offerte speciali!">
     <meta property="fb:app_id" content="1493951624164660">
     <meta property="og:site_name" content="Dipacommerce">
     <meta name="keywords" content="Ricambi,auto,Catalogo,pezzi,di,ricambio">
     <meta name="description"
-          content="Ordina gli articoli che desideri nella nostra categoria di accessori   e risparmia fino al 60">
+          content="Vendita di accessori scontati su Dipacommerce, lo specialista in accessori auto per la manutenzione della tua automobile. Scopri il nostro ampio catalogo di ricambi auto a basso costo e tutte le nostre ultime offerte speciali!">
 
     <!-- pour antvoice : -->
     <script type="text/javascript" language="javascript">
@@ -106,8 +78,8 @@
     </script>
 
     <!-- TRUSTPILOT -->
-    <script type="text/javascript" src="public/accessori_group_files/tp.widget.sync.bootstrap.min.js.download"></script>
-    <script src="public/accessori_group_files/tp.widget.bootstrap.min.js.download" async=""></script>
+    <script type="text/javascript" src="public/accessori_type/tp.widget.sync.bootstrap.min.js.download"></script>
+    <script src="public/accessori_type/tp.widget.bootstrap.min.js.download" async=""></script>
     <link href="https://plus.google.com/+MisterautoItalia/posts" rel="publisher">
 
 
@@ -120,20 +92,19 @@
           href="https://it-static.cdn.dipacommerce.com/img/commun/favicon/favicon-16x16.png">
     <link rel="mask-icon" href="https://it-static.cdn.dipacommerce.com/img/commun/favicon/safari-pinned-tab.svg"
           color="#E94F2D">
-    <meta name="apple-mobile-web-app-title" content="Mister Auto">
-    <meta name="application-name" content="Mister Auto">
+    <meta name="apple-mobile-web-app-title" content="Dipacommerce">
+    <meta name="application-name" content="Dipacommerce">
     <meta name="theme-color" content="#FFFFFF">
     <script>
         var __COUNTRY_FB__ = 'IT';
         var __LANG_FB__ = 'it';
-        var __ID_STAGE__ = 'catalogueboutique_famille';
+        var __ID_STAGE__ = 'catalogueboutique';
     </script>
-    <link rel="stylesheet" media="screen" type="text/css" href="public/accessori_group_files/main.min.css">
-    <link rel="stylesheet" media="screen" type="text/css"
-          href="public/accessori_group_files/catalogueboutique_famille.min.css">
-    <link rel="stylesheet" media="screen" type="text/css" href="public/accessori_group_files/font.css">
-    <link rel="stylesheet" media="screen" type="text/css" href="public/accessori_group_files/custom_font.css">
-    <link rel="stylesheet" media="screen" type="text/css" href="public/accessori_group_files/fontawesome.css">
+    <link rel="stylesheet" media="screen" type="text/css" href="public/accessori_type/main.min.css">
+    <link rel="stylesheet" media="screen" type="text/css" href="public/accessori_type/catalogueboutique.min.css">
+    <link rel="stylesheet" media="screen" type="text/css" href="public/accessori_type/font.css">
+    <link rel="stylesheet" media="screen" type="text/css" href="public/accessori_type/custom_font.css">
+    <link rel="stylesheet" media="screen" type="text/css" href="public/accessori_type/fontawesome.css">
     <script type="text/javascript">
         <!--
         var _lang = {
@@ -204,13 +175,14 @@
             "min-x-num": "Minimo %s cifre",
             "pi_invalide": "pi non valido",
             "cf_invalide": "Codice fiscale non valido",
-            "application.gdpr_info_plate": "I dati sopra riportati sono obbligatori e vengono elaborati da Mister Auto SAS per l'esecuzione del contratto e il tracciamento degli ordini. Vengono trasmessi ai fornitori di servizi che Mister Auto SAS utilizza per questo scopo, se necessario al di fuori dell'Unione Europea con adeguate garanzie legali che \u00e8 possibile ottenere all'indirizzo sotto indicato. Sono conservati per un massimo di 5 anni. <br \/>Puoi accedere, modificare, far valere il tuo diritto alla portabilit\u00e0, cancellare tutti i dati su di te, richiedere la limitazione del trattamento dei tuoi dati e opporti al trattamento dei tuoi dati contattandoci via posta a Mister Auto, Data Protection, 19 rue Alfred de Musset, 69100 Villeurbanne, Francia e via e-mail all'indirizzo <a style=\"color:#0572b7;\" href=\"mailto:dataprotection@mister-atuo.com\">dataprotection@dipacommerce.com<\/a>, a condizione che la richiesta non comporti l'impossibilit\u00e0 per Mister Auto SAS di adempiere ai propri obblighi legali o contrattuali. Hai anche il diritto di presentare un reclamo alle autorit\u00e0 competenti.",
+            "application.gdpr_info_plate": "I dati sopra riportati sono obbligatori e vengono elaborati da Dipacommerce SAS per l'esecuzione del contratto e il tracciamento degli ordini. Vengono trasmessi ai fornitori di servizi che Dipacommerce SAS utilizza per questo scopo, se necessario al di fuori dell'Unione Europea con adeguate garanzie legali che \u00e8 possibile ottenere all'indirizzo sotto indicato. Sono conservati per un massimo di 5 anni. <br \/>Puoi accedere, modificare, far valere il tuo diritto alla portabilit\u00e0, cancellare tutti i dati su di te, richiedere la limitazione del trattamento dei tuoi dati e opporti al trattamento dei tuoi dati contattandoci via posta a Dipacommerce, Data Protection, 19 rue Alfred de Musset, 69100 Villeurbanne, Francia e via e-mail all'indirizzo <a style=\"color:#0572b7;\" href=\"mailto:dataprotection@mister-atuo.com\">dataprotection@dipacommerce.com<\/a>, a condizione che la richiesta non comporti l'impossibilit\u00e0 per Dipacommerce SAS di adempiere ai propri obblighi legali o contrattuali. Hai anche il diritto di presentare un reclamo alle autorit\u00e0 competenti.",
             "arobase_interdit": "Carattere <i>@<\/i> vietato in questo campo"
         };
         -->
     </script>
-    <script type="text/javascript" src="public/accessori_group_files/main.min.js.download"></script>
-    <script type="text/javascript" src="public/accessori_group_files/catalogueboutique_famille.min.js.download"></script>
+    <script type="text/javascript" src="public/accessori_type/main.min.js.download"></script>
+    <script type="text/javascript" src="public/accessori_type/data_to_action.min.js.download"></script>
+    <script type="text/javascript" src="public/accessori_type/catalogueboutique.min.js.download"></script>
 
     <!-- Tag AB TASTY -->
     <!-- FIN Tag AB TASTY -->
@@ -237,11 +209,11 @@
         var __VARCN__ = '46ffdf4f5a3d25abadc765a239efe83d';
         var __PRIX_ARRONDI__ = '';
         var __ASSURANCE_RETOUR_POLLICITATION__ = '1';
-        var __TYPE_PAGE__ = 'catalogueboutique_famille';
+        var __TYPE_PAGE__ = 'catalogueboutique';
         var __TYPE_SUBDIR__ = false;
         var __STAGE__ = '';
         var __TYPE_LANDING__ = '';
-        var __ID_STAGE__ = 'catalogueboutique_famille';
+        var __ID_STAGE__ = 'catalogueboutique';
         var __RETOUR_GRATUIT_MONTANT_MINI__ = '';
         var TOKEN = {
             "FR": {
@@ -827,8 +799,8 @@
     <!--End of Zopim Live Chat Script-->
 
 
-    <script src="public/accessori_group_files/api.js.download"></script>
-    <script src="public/accessori_group_files/f(1).txt"></script>
+    <script src="public/accessori_type/api.js.download"></script>
+    <script src="public/accessori_type/f(1).txt"></script>
 </head>
 
 
@@ -838,8 +810,8 @@
     //VALEURS POUR SCRIPT TAG MANAGER
     var dataLayer = [{
         // All pages
-        'page_name': 'accessori-auto/guasti-e-sicurezza_blc610',
-        'page_category': 'products/family',
+        'page_name': 'car-accessories/',
+        'page_category': 'products/category',
         'country_code': 'IT',
         'ua': 'UA-88658385-14',
         // Vehicle Infos (commenté pour ne pas apparaitre sur les pages statiques type HP)
@@ -928,7 +900,7 @@
             </script>
 
             <a class="logo logo_IT" href="https://dipacommerce.it/" title="">
-                <img src="public/accessori_group_files/logo-dipacommerce.jpg" alt="Mister Auto" width="80">
+                <img src="public/accessori_type/logo-dipacommerce.jpg" alt="Dipacommerce" width="80">
                 <!-- <span class="it">Lo specialista online dei ricambi auto</span> -->
             </a>
             <span class="logo_grp"></span>
@@ -941,15 +913,15 @@
                         <i class="fa fa-etsy"></i>
                     </a>
                     <span class="disp_b font_s14 h-title-logo">
-			<a class="" href="https://dipacommerce.it/mioconto/" rel="nofollow" title="Il mio conto">Il mio conto</a>
+			<a class="" href="https://dipacommerce.it/mioconto/" rel="nofollow"
+               title="Il mio conto">Il mio conto</a>
 		</span>
                 </div>
                 <!-- logo panier -->
                 <div class="content-panier">
                     <a class="h-panier sqte pncpte cart_more" id="h_logo_panier"
                        href="https://dipacommerce.it/carrello/" rel="nofollow" title="Il mio carrello">
-                        <i class="fa fa-etsy"><span id="quantitePanier"
-                                                                                 class="disp_n">0</span></i>
+                        <i class="fa fa-etsy"></i>
                     </a>
                     <span class="disp_b font_s14 h-title-logo">
 			<a class="" href="https://dipacommerce.it/carrello/" rel="nofollow" title="Il mio carrello">Il mio carrello</a>
@@ -1020,7 +992,7 @@
                         <input type="hidden" name="enteteSuggestP1" value="Categorie" id="enteteSuggestP1">
                         <input type="hidden" name="enteteSuggestP2" value="Prodotti" id="enteteSuggestP2">
                         <input type="hidden" name="enteteSuggestP3" value="Marchio" id="enteteSuggestP3">
-                        <input type="hidden" name="typePage" value="catalogueboutique_famille" id="typePage">
+                        <input type="hidden" name="typePage" value="catalogueboutique" id="typePage">
                         <input type="hidden" name="ganalytics" value="" id="ganalytics">
 
                         <input type="hidden" name="titleFacetMarque" value="Produttore" id="titleFacetmarque">
@@ -1054,20 +1026,19 @@
                                     <span class="algolia-autocomplete" style="display:table-cell">
                                         <span class="algolia-autocomplete"
                                               style="position: relative; display: inline-block; direction: ltr;"><input
-                                                    autocomplete="off" name="q"
-                                                    placeholder="Cerca un prodotto, un riferimento o una marca"
-                                                    spellcheck="false" class="aa-input" dir="auto" id="query"
-                                                    type="text" role="combobox" aria-autocomplete="both"
-                                                    aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0"
-                                                    style="position: relative; vertical-align: top;"><pre
-                                                    aria-hidden="true"
-                                                    style="position: absolute; visibility: hidden; white-space: pre; font-family: &quot;Open Sans&quot;; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; word-spacing: 0px; letter-spacing: normal; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><span
-                                                    class="aa-dropdown-menu" role="listbox"
-                                                    id="algolia-autocomplete-listbox-0"
-                                                    style="position: absolute; top: 100%; z-index: 100; display: none; left: 0px; right: auto;"><div
-                                                        class="aa-dataset-categorie"></div><div
-                                                        class="aa-dataset-marque"></div><div
-                                                        class="aa-dataset-produit"></div></span></span>
+                                                autocomplete="off" name="q"
+                                                placeholder="Cerca un prodotto, un riferimento o una marca"
+                                                spellcheck="false" class="aa-input" dir="auto" id="query" type="text"
+                                                role="combobox" aria-autocomplete="both" aria-expanded="false"
+                                                aria-owns="algolia-autocomplete-listbox-0"
+                                                style="position: relative; vertical-align: top;"><pre aria-hidden="true"
+                                                                                                      style="position: absolute; visibility: hidden; white-space: pre; font-family: &quot;Open Sans&quot;; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; word-spacing: 0px; letter-spacing: normal; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><span
+                                                class="aa-dropdown-menu" role="listbox"
+                                                id="algolia-autocomplete-listbox-0"
+                                                style="position: absolute; top: 100%; z-index: 100; display: none; left: 0px; right: auto;"><div
+                                                    class="aa-dataset-categorie"></div><div
+                                                    class="aa-dataset-marque"></div><div
+                                                    class="aa-dataset-produit"></div></span></span>
                                         <span class="aa-dropdown-menu aa-with-0">
                                             <div class="aa-dataset-0"></div>
                                         </span>
@@ -1114,7 +1085,7 @@
                                         <i class="fa fa-etsy"></i> Migliori prodotti invernali </p>
                                     <ul>
                                         <li class="default"><i class="fa fa-etsy"></i><a
-                                                href="https://dipacommerce.it/accessori-auto/" title="">Accessori auto</a>
+                                                href="https://dipacommerce.it/accessori-auto/" title="">Types auto</a>
                                         </li>
                                         <li class="default"><i class="fa fa-etsy"></i><a
                                                 href="https://dipacommerce.it/spazzola-tergicristallo_lg298/" title="">Tergicristalli</a>
@@ -1283,215 +1254,130 @@
                 <span class="date"></span><span class="fa fa-etsy"></span>
             </div>
             <div class="mainTextContainer"><img class="_header_bandeau disp_b"
-                                                src="public/accessori_group_files/d_bandeau_defaut_71448_5c24f50ed3871.png"
+                                                src="public/accessori_type/d_bandeau_defaut_71448_5c24f50ed3871.png"
                                                 alt=""></div>
         </div>
-        <script type="text/javascript" src="public/accessori_group_files/algoliasearch.helper.min.js.download"></script>
-        <script type="text/javascript" src="public/accessori_group_files/algoliasearch.js.download"></script>
-        <script type="text/javascript" src="public/accessori_group_files/autocomplete.js.download"></script>
-        <script type="text/javascript" src="public/accessori_group_files/algoliav2.js.download"></script>
+        <script type="text/javascript" src="public/accessori_type/algoliasearch.helper.min.js.download"></script>
+        <script type="text/javascript" src="public/accessori_type/algoliasearch.js.download"></script>
+        <script type="text/javascript" src="public/accessori_type/autocomplete.js.download"></script>
+        <script type="text/javascript" src="public/accessori_type/algoliav2.js.download"></script>
 
 
         <div class="b_content b_swap">
-            <div class="bframe_g cleared" style="padding-top: 0">
-                <div class="custom-frame-ariane">
-                    <div id="ariane">
-                        <div itemscope="" class="link" itemtype="http://data-vocabulary.org/Breadcrumb"><a
-                                    href="https://dipacommerce.it/accessori-auto/" itemprop="url"><span
-                                        itemprop="title">Accessori auto - Tutto per la manutenzione</span></a>&nbsp;›&nbsp;
-                        </div>
-                        <div itemscope="" class="link" itemtype="http://data-vocabulary.org/Breadcrumb"><a
-                                    itemprop="url" class="curs_dflt"><span
-                                        itemprop="title">Guasti e sicurezza</span></a></div>
-                    </div>
 
-
-                </div>
-            </div>
             <div class="frame f_full f_white clear">
                 <div class="top">
-                    <h1 class="higher_grey">Guasti e sicurezza</h1>
+                    <h2 class="higher_grey_boutique">Scopri tutti i nostri accessori auto</h2>
                 </div>
+
                 <div class="middle cleared">
-                    <div class="hp_boutique_famille_top">
-                        <div class="f_bubble" style="padding-left:8px;">
-                            <div class="txt_center" style="height: 80px; display: table; width: 100%;">
-                                <div style="display: table-cell; color:#000;font-size:13px;">
-                                    <h2 class="font_s14 txt_bold" style="margin-bottom:10px;margin-top:5px;">Le migliori
-                                        offerte del web per guasti e sicurezza.</h2>
-                                    <div>Sul sito Dipacommerce, potrai ordinare on-line gli accessori della categoria
-                                        guasti e sicurezza. Confronta i prezzi e le caratteristiche tecniche dei vari
-                                        pezzi disponibili per la tua automobile.
+                    <div class="hp_boutique_top">
+
+                        <div class="accueil_boutique">
+                            <div class="accueil_boutique_special">
+                                <div class="txt_center" style="height: 100px; display: table; width: 100%;">
+                                    <div
+                                        style="vertical-align: middle; color:#000; font-size:13px; text-align:justify; line-height:16px; width:384px; padding:30px 0 0 28px;">
+                                        Scopri il nostro negozio di accessori auto on-line a prezzi scontati! Più di
+                                        <strong>2000 prodotti</strong> sono a tua disposizione per l'equipaggiamento e
+                                        la <strong>manutenzione della tua automobile</strong>.
                                     </div>
                                 </div>
                             </div>
-                        </div>
 
+                            <script type="text/javascript">
+                                <!--
+                                var search_data_selected = [];
+                                -->
+                            </script>
+
+                            <div class="boutique_search_special">
+                                <input type="text" id="autocomplete_b_search_engine" value="Cerca un prodotto"
+                                       onfocus="this.value='';" autocomplete="off" class="ac_input">
+                                <span class="iclear _trigger_autocomplete"><input
+                                        class="sqr_go boutique_search_go input_btn_search_bar" type="image" style=""
+                                        src="public/accessori_type/bouton_recherche.png"></span>
+                            </div>
+
+                            <input type="hidden" id="type_produit" value="boutique">
+                        </div>
+                        <div class="boutique_slide">
+                            <script>
+                                function loadSlide(idSlide) {
+                                    var nextSlide = $('.sliderImg[data-id=' + (idSlide + 1) + ']');
+                                    if (nextSlide.attr('data-src')) {
+                                        nextSlide.attr('src', nextSlide.attr('data-src'));
+                                    } else {
+                                        $('#pagination>li[data-show="true"]').css('display', 'list-item');
+                                        slideshow.a = 4;
+                                        slideshow.auto();
+                                    }
+                                }
+                            </script>
+                            <div>
+                                <div id="slider" class="slidebox categorie_slide" style="overflow: hidden;">
+                                    <ul style="left: 0px; width: 510px;">
+                                        <li>
+                                            <a href="https://dipacommerce.it/accessori-auto/lampade-e-torce-da-lavoro_bg90061.html"
+                                               title="https://dipacommerce.it/accessori-auto/lampade-e-torce-da-lavoro_bg90061.html">
+                                                <img class="sliderImg" onload="loadSlide(0);" data-id="0"
+                                                     src="public/accessori_type/d_slide_boutique_21753_584accbc58c38.png"
+                                                     alt="//it-static.cdn.dipacommerce.com/img/it_IT/visuals/0/d_slide_boutique_21753_584accbc58c38.png"
+                                                     width="500px" height="198px">
+                                            </a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <ul id="pagination" class="pagination">
+                                <li onclick="slideshow.pos(0)" data-show="false" style="display: none;"
+                                    class="current"></li>
+                            </ul>
+                        </div>
+                        <script>
+                            var slideshow = new TINY.slider.slide('slideshow', {
+                                id: 'slider', // ID of the parent slideshow div
+                                resume: false, // Resume auto after interrupted, defaults to false
+                                vertical: false, // Direction, defaults to false
+                                navid: 'pagination', // Optional ID of direct navigation UL
+                                activeclass: 'current', // Class to set on the current LI
+                                position: 0 // Initial slide position, defaulting to index 0
+                            });
+                        </script>
                         <div class="clear"></div>
                     </div>
 
-                    <div class="hp_boutique_famille_content">
-                        @for($idx = 0; $idx < count($accessoriGroups); $idx++)
-                            @if($idx%3==0)
-                                <div class="familles_row">
+                    <div class="hp_boutique_content">
+                        @for($idx = 0; $idx < count($types); $idx++)
+                            @if ($idx%3 == 0)
+                                <div class="categories_row">
                             @endif
-                                    <div class="fam_content">
-                                        <div class="famille_bloc f_more" style="height: 230px;">
-                                            <div class="famille wrapper">
-                                                <div class="fam_img">
-                                                    <div class="fam_img">
-                                                        <img src="{{$accessoriGroups[$idx]->image}}">
-                                                        <div class="pointer"></div>
-                                                    </div>
-                                                    <div class="pointer"></div>
-                                                </div>
-                                                <div class="fam_txt">{{$accessoriGroups[$idx]->content}}</div>
-                                                <div class="fam_generiques middle" style="background-image:none;">
-                                                    <ul class="ul_generiques">
-                                                        @for($idxx = 0; $idxx < count($accessoriGroups[$idx]->items); $idxx++)
-                                                        <li>
-                                                            <a href="/accessori_item?item_group={{$accessoriGroups[$idx]->items[$idxx]->id}}">{{$accessoriGroups[$idx]->items[$idxx]->content}}</a> <span
-                                                                    class="nb_article_in_gen_boutique">({{$accessoriGroups[$idx]->items[$idxx]->size}})</span></li>
-                                                        @endfor
-                                                    </ul>
-                                                </div>
-                                                <div class="bottom" data-wording="Vedere di più"></div>
+                                    <a class="cat_link"
+                                       href="{{$types[$idx]->link}}?id_type={{$types[$idx]->id}}">
+                                        <div class="categorie ">
+                                            <div class="cat_img"><img src="{{$types[$idx]->image}}">
+                                                <div class="pointer"></div>
                                             </div>
+                                            <div class="cat_txt">{{$types[$idx]->content}}</div>
                                         </div>
-                                    </div>
-                            @if($idx%3==2 || $idx == count($accessoriGroups) - 1)
+                                    </a>
+                            @if ($idx%3 == 2 || $idx == count($types) - 1)
                                 </div>
-                                <div class="clear"></div>
+                                <div class="clear" style="height:0px;"></div>
                             @endif
                         @endfor
                     </div>
 
-                    <ul id="pagination" class="pagination pagination_famille_boutique">
-                        <li onclick="slideshow.pos(0)" class="current"></li>
-                        <li onclick="slideshow.pos(1)" class=""></li>
-                        <li onclick="slideshow.pos(2)" class=""></li>
-                    </ul>
-
-                    <div class="boutique-top-ventes">
-                        <span class="padl8 clr_orange float_l" style="clear:none;"> ► </span>
-                        <h3 class="float_l h3_boutique_topventes">LE NOSTRE MIGLIORI VENDITE</h3>
-                    </div>
-
-                    <div class="boutique_slide boutique_slide_famille">
-                        <div>
-                            <div id="slider" style="overflow: hidden;">
-                                <ul style="left: 0px; width: 1908px;">
-                                    <li>
-                                        <div class="one-top-vente">
-                                            <div class="one-top-vente-infos">
-                                                <span class="one-top-vente-titre">Chiave telescopica smonta ruota</span>
-                                                <span class="one-top-vente-prix">€&nbsp;9.80</span>
-                                                <a href="https://dipacommerce.it/accessori-auto/chiave-telescopica-smonta-ruota_bg900013_a937813196.html"><span
-                                                            class="en-savoir-plus">Ulteriori informazioni</span></a>
-                                            </div>
-                                            <div class="one-top-vente-img"><img
-                                                        src="public/accessori_group_files/937813196-2.jpg"></div>
-                                        </div>
-
-
-                                        <div class="one-top-vente">
-                                            <div class="one-top-vente-infos">
-                                                <span class="one-top-vente-titre">Tanica omologata carburanti 10L</span>
-                                                <span class="one-top-vente-prix">€&nbsp;5.20</span>
-                                                <a href="https://dipacommerce.it/accessori-auto/tanica-omologata-carburanti-10l_bg900043_a958727110.html"><span
-                                                            class="en-savoir-plus">Ulteriori informazioni</span></a>
-                                            </div>
-                                            <div class="one-top-vente-img"><img
-                                                        src="public/accessori_group_files/958727110-5.jpg"></div>
-                                        </div>
-
-
-                                        <div class="one-top-vente">
-                                            <div class="one-top-vente-infos">
-                                                <span class="one-top-vente-titre">Coppia di cavalletti 2t (x2)</span>
-                                                <span class="one-top-vente-prix">€&nbsp;15.01</span>
-                                                <a href="https://dipacommerce.it/accessori-auto/coppia-di-cavalletti-2t-x2_bg900053_a937768672.html"><span
-                                                            class="en-savoir-plus">Ulteriori informazioni</span></a>
-                                            </div>
-                                            <div class="one-top-vente-img"><img
-                                                        src="public/accessori_group_files/937768672-2.jpg"></div>
-                                        </div>
-
-
-                                        <div class="one-top-vente">
-                                            <div class="one-top-vente-infos">
-                                                <span class="one-top-vente-titre">Pompa a pedale bicilindrica con manometro</span>
-                                                <span class="one-top-vente-prix">€&nbsp;12.51</span>
-                                                <a href="https://dipacommerce.it/accessori-auto/pompa-a-pedale-bicilindrica-con-manometro_bg900034_a958858415.html"><span
-                                                            class="en-savoir-plus">Ulteriori informazioni</span></a>
-                                            </div>
-                                            <div class="one-top-vente-img"><img
-                                                        src="public/accessori_group_files/958858415-1.jpg"></div>
-                                        </div>
-
-                                    </li>
-                                    <li>
-                                        <div class="one-top-vente">
-                                            <div class="one-top-vente-infos">
-                                                <span class="one-top-vente-titre">Kit triangolo + gilet</span>
-                                                <span class="one-top-vente-prix">€&nbsp;8.20</span>
-                                                <a href="https://dipacommerce.it/accessori-auto/kit-triangolo-gilet_bg90111_a958954400.html"><span
-                                                            class="en-savoir-plus">Ulteriori informazioni</span></a>
-                                            </div>
-                                            <div class="one-top-vente-img"><img
-                                                        src="public/accessori_group_files/958954400-4.jpg"></div>
-                                        </div>
-
-
-                                        <div class="one-top-vente">
-                                            <div class="one-top-vente-infos">
-                                                <span class="one-top-vente-titre">Cric idraulico a bottiglia 2T</span>
-                                                <span class="one-top-vente-prix">€&nbsp;21.30</span>
-                                                <a href="https://dipacommerce.it/accessori-auto/cric-idraulico-a-bottiglia-2t_bg900053_a937851678.html"><span
-                                                            class="en-savoir-plus">Ulteriori informazioni</span></a>
-                                            </div>
-                                            <div class="one-top-vente-img"><img
-                                                        src="public/accessori_group_files/937851678-2.jpg"></div>
-                                        </div>
-
-
-                                        <div class="one-top-vente">
-                                            <div class="one-top-vente-infos">
-                                                <span class="one-top-vente-titre">Cric a losanga 1t</span>
-                                                <span class="one-top-vente-prix">€&nbsp;21.50</span>
-                                                <a href="https://dipacommerce.it/accessori-auto/cric-a-losanga-1t_bg900053_a937854670.html"><span
-                                                            class="en-savoir-plus">Ulteriori informazioni</span></a>
-                                            </div>
-                                            <div class="one-top-vente-img"><img
-                                                        src="public/accessori_group_files/937854670-2.jpg"></div>
-                                        </div>
-
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <script>
-                        var slideshow = new TINY.slider.slide('slideshow', {
-                            id: 'slider', // ID of the parent slideshow div
-                            auto: 5, // Seconds to auto-advance, defaults to disabled
-                            resume: true, // Resume auto after interrupted, defaults to false
-                            vertical: false, // Direction, defaults to false
-                            navid: 'pagination', // Optional ID of direct navigation UL
-                            activeclass: 'current', // Class to set on the current LI
-                            position: 0 // Initial slide position, defaulting to index 0
-                        });
-                    </script>
-
                 </div>
                 <div class="bottom"></div>
+
             </div>
         </div>
     </div>
 
     <div class="grid_wedge"></div>
 </div>
+<div class="widget" __jx__id="___$_1"
+     style="position: absolute; visibility: hidden; margin: 0px; padding: 0px; border: 0px; height: 0px; width: 0px;"></div>
 <div class="content_footer">
     <div id="footer">
         <div class="footer-reinsurance">
@@ -1527,7 +1413,8 @@
 
                         <div class="frame f_cell f_maxw f_vert_dtl mart0 marb0 f_bc_newsletter">
                             <div class="middle">
-                                <form id="newsletter" method="post" action="https://dipacommerce.it/newsletter.html">
+                                <form id="newsletter" method="post"
+                                      action="https://dipacommerce.it/newsletter.html">
                                     <fieldset>
                                         <input type="text" value="" name="news[email]" id="email"
                                                style="color: rgb(153, 153, 153);">
@@ -1594,7 +1481,8 @@
                             di consegna</a>
                         <a href="https://dipacommerce.it/garanzie.html#unit-2" class="withRightNowParams black">Modalità
                             di pagamento</a>
-                        <a href="https://dipacommerce.it/mioconto/ordini.html" class=" black">Segui il tuo ordine</a>
+                        <a href="https://dipacommerce.it/mioconto/ordini.html" class=" black">Segui il tuo
+                            ordine</a>
                         <a href="https://dipacommerce.it/aiuto.html#unit-3" class="withRightNowParams black">Cambi /
                             Restituzioni</a>
                         <a href="https://dipacommerce.it/contatti.html" class=" black">Contattaci</a>
@@ -1610,7 +1498,7 @@
                     <div class="middle padl16" style="height:inherit;padding: 0">
                         <a href="https://dipacommerce.it/chi-siamo-noi.html" class="simpl">Chi siamo</a>
                         <a href="https://dipacommerce.it/faq/" class=" black">FAQ</a> <a
-                                href="https://dipacommerce.it/newsletter.html" class=" black">Iscriviti alla
+                            href="https://dipacommerce.it/newsletter.html" class=" black">Iscriviti alla
                             newsletter</a>
 
                     </div>
@@ -1622,10 +1510,10 @@
                     </div>
                     <div class="middle padl20 top_m" style="height:inherit;padding: 0">
                         <a href="https://dipacommerce.it/ricambi-fiat-v35/" class="black">FIAT</a> <a
-                                href="https://dipacommerce.it/ricambi-ford-v36/" class="black">FORD</a> <a
-                                href="https://dipacommerce.it/ricambi-opel-v84/" class="black">OPEL</a> <a
-                                href="https://dipacommerce.it/ricambi-volkswagen-v121/" class="black">VOLKSWAGEN</a>
-                        <a href="https://dipacommerce.it/ricambi-renault-v93/" class="black">RENAULT</a></div>
+                            href="https://dipacommerce.it/ricambi-ford-v36/" class="black">FORD</a> <a
+                            href="https://dipacommerce.it/ricambi-opel-v84/" class="black">OPEL</a> <a
+                            href="https://dipacommerce.it/ricambi-volkswagen-v121/" class="black">VOLKSWAGEN</a> <a
+                            href="https://dipacommerce.it/ricambi-renault-v93/" class="black">RENAULT</a></div>
                     <a href="https://dipacommerce.it/marche-auto/" class="simpl">Le nostre marche</a>
                     <div class="bottom"></div>
                 </div>
@@ -1636,10 +1524,10 @@
                     </div>
                     <div class="middle padl20 top_equ" style="height:inherit;padding: 0">
                         <a href="https://dipacommerce.it/bosch_e030/" class="black">BOSCH</a> <a
-                                href="https://dipacommerce.it/mann-filter_e004/" class="black">MANN-FILTER</a> <a
-                                href="https://dipacommerce.it/ferodo_e062/" class="black">FERODO</a> <a
-                                href="https://dipacommerce.it/brembo_e065/" class="black">BREMBO</a> <a
-                                href="https://dipacommerce.it/valeo_e021/" class="black">VALEO</a></div>
+                            href="https://dipacommerce.it/mann-filter_e004/" class="black">MANN-FILTER</a> <a
+                            href="https://dipacommerce.it/ferodo_e062/" class="black">FERODO</a> <a
+                            href="https://dipacommerce.it/brembo_e065/" class="black">BREMBO</a> <a
+                            href="https://dipacommerce.it/valeo_e021/" class="black">VALEO</a></div>
                     <a href="https://dipacommerce.it/produttori-auto/" class="simpl">I nostri fornitori</a>
                     <div class="bottom"></div>
                 </div>
@@ -1658,100 +1546,100 @@
                 <div class="bframe">
                     <ul class="drapeau_pays">
                         <li><span class="flag FR" title="Pièces auto" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.com/accessoires-auto/depannage-et-securite_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.com/accessoires-auto/';"></span>
                         </li>
                         <li><span class="flag NL" title="Auto-onderdelen" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.nl/accessoires-onderhoud/pechhulp-en-veiligheid_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.nl/accessoires-onderhoud/';"></span>
                         </li>
                         <li><span class="flag BE" title="Pièces auto" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.be/fr/accessoires-auto/depannage-et-securite_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.be/fr/accessoires-auto/';"></span>
                             <div class="posfix">
                                 <ul class="drapeau_pays_langues">
                                     <li class="drapeau_pays_langue"><span class="black" title="Pièces auto"
                                                                           style="cursor:pointer;"
-                                                                          onclick="window.location='https://www.dipacommerce.be/fr/accessoires-auto/depannage-et-securite_blc610.html';">Pièces auto</span>
+                                                                          onclick="window.location='https://www.dipacommerce.be/fr/accessoires-auto/';">Pièces auto</span>
                                     </li>
                                     <li class="drapeau_pays_langue"><span class="black" title="Auto-onderdelen"
                                                                           style="cursor:pointer;"
-                                                                          onclick="window.location='https://www.dipacommerce.be/fl/accessoires-onderhoud/pechhulp-en-veiligheid_blc610.html';">Auto-onderdelen</span>
+                                                                          onclick="window.location='https://www.dipacommerce.be/fl/accessoires-onderhoud/';">Auto-onderdelen</span>
                                     </li>
                                 </ul>
                             </div>
                         </li>
                         <li><span class="flag DE" title="Autoteile" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.de/zubehoer-pflege/pannenhilfe-sicherheitsartikel_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.de/zubehoer-pflege/';"></span>
                         </li>
                         <li><span class="flag AT" title="Autoteile" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.at/zubehoer-pflege/pannenhilfe-sicherheitsartikel_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.at/zubehoer-pflege/';"></span>
                         </li>
                         <li><span class="flag LU" title="Pièces auto" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.lu/fr/accessoires-auto/depannage-et-securite_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.lu/fr/accessoires-auto/';"></span>
                             <div class="posfix">
                                 <ul class="drapeau_pays_langues">
                                     <li class="drapeau_pays_langue"><span class="black" title="Pièces auto"
                                                                           style="cursor:pointer;"
-                                                                          onclick="window.location='https://www.dipacommerce.lu/fr/accessoires-auto/depannage-et-securite_blc610.html';">Pièces auto</span>
+                                                                          onclick="window.location='https://www.dipacommerce.lu/fr/accessoires-auto/';">Pièces auto</span>
                                     </li>
                                     <li class="drapeau_pays_langue"><span class="black" title="Autoteile"
                                                                           style="cursor:pointer;"
-                                                                          onclick="window.location='https://www.dipacommerce.lu/de/zubehoer-pflege/pannenhilfe-sicherheitsartikel_blc610.html';">Autoteile</span>
+                                                                          onclick="window.location='https://www.dipacommerce.lu/de/zubehoer-pflege/';">Autoteile</span>
                                     </li>
                                 </ul>
                             </div>
                         </li>
                         <li><span class="flag ES" title="Piezas de recambio" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.es/accesorios-coche/equipamiento-averias-y-seguridad_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.es/accesorios-coche/';"></span>
                         </li>
                         <li><span class="flag IT" title="Ricambi auto"></span></li>
                         <li><span class="flag GB" title="Car parts" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.co.uk/car-accessories/safety-security_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.co.uk/car-accessories/';"></span>
                         </li>
                         <li><span class="flag IE" title="Car parts" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.ie/car-accessories/safety-security_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.ie/car-accessories/';"></span>
                         </li>
                         <li><span class="flag PT" title="Peças de automóvel" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.pt/acessorios-auto/desempanagem-e-seguranca_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.pt/acessorios-auto/';"></span>
                         </li>
                         <li><span class="flag FI" title="Auton osat" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.fi/autotarvikkeet/korjaus-ja-turvallisuus_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.fi/autotarvikkeet/';"></span>
                         </li>
                         <li><span class="flag SE" title="Bildelar" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.se/biltillbehor/reparation-och-sakerhet_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.se/biltillbehor/';"></span>
                         </li>
                         <li><span class="flag DK" title="bildele " style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.dk/biltilbehoer/hjalp-og-sikkerhedsudstyr_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.dk/biltilbehoer/';"></span>
                         </li>
                         <li><span class="flag GR" title="Εξαρτήματα αυτοκινήτου" style="cursor:pointer;"
                                   onclick="window.location='http://www.dipacommerce.gr/';"></span></li>
                         <li><span class="flag CH" title="Autoteile" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.ch/de/zubehoer-pflege/pannenhilfe-sicherheitsartikel_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.ch/de/zubehoer-pflege/';"></span>
                             <div class="posfix">
                                 <ul class="drapeau_pays_langues">
                                     <li class="drapeau_pays_langue"><span class="black" title="Autoteile"
                                                                           style="cursor:pointer;"
-                                                                          onclick="window.location='https://www.dipacommerce.ch/de/zubehoer-pflege/pannenhilfe-sicherheitsartikel_blc610.html';">Autoteile</span>
+                                                                          onclick="window.location='https://www.dipacommerce.ch/de/zubehoer-pflege/';">Autoteile</span>
                                     </li>
                                     <li class="drapeau_pays_langue"><span class="black" title="Pièces auto"
                                                                           style="cursor:pointer;"
-                                                                          onclick="window.location='https://www.dipacommerce.ch/fr/accessoires-auto/depannage-et-securite_blc610.html';">Pièces auto</span>
+                                                                          onclick="window.location='https://www.dipacommerce.ch/fr/accessoires-auto/';">Pièces auto</span>
                                     </li>
                                 </ul>
                             </div>
                         </li>
                         <li><span class="flag NO" title="" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.no/biltilbehoer/bilassistanse-og-sikkerhet_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.no/biltilbehoer/';"></span>
                         </li>
                         <li><span class="flag RE" title="Pièces auto" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.re/accessoires-auto/depannage-et-securite_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.re/accessoires-auto/';"></span>
                         </li>
                         <li><span class="flag GP" title="Pièces auto" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.gp/accessoires-auto/depannage-et-securite_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.gp/accessoires-auto/';"></span>
                         </li>
                         <li><span class="flag MQ" title="Pièces auto" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.mq/accessoires-auto/depannage-et-securite_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.mq/accessoires-auto/';"></span>
                         </li>
                         <li><span class="flag GF" title="Pièces auto" style="cursor:pointer;"
-                                  onclick="window.location='https://www.dipacommerce.gf/accessoires-auto/depannage-et-securite_blc610.html';"></span>
+                                  onclick="window.location='https://www.dipacommerce.gf/accessoires-auto/';"></span>
                         </li>
                         <li><span class="flag BR" title="" style="cursor:pointer;"
                                   onclick="window.location='http://www.dipacommerce.com.br/';"></span></li>
@@ -1781,8 +1669,7 @@
                             </div>
                             <div class="mobile_icon">
                                 <i class="fa fa-mobile"></i>
-                                <span><a href="https://m.dipacommerce.it/accessori-auto/guasti-e-sicurezza_blc610.html"
-                                         rel="nofollow">Sito mobile</a></span>
+                                <span><a href="https://m.dipacommerce.it/accessori-auto/" rel="nofollow">Sito mobile</a></span>
                             </div>
                         </div>
                     </div>
@@ -1797,7 +1684,7 @@
                                         <span itemprop="best">5</span>
                                     </span>
                             <span class="stars-bg it-IT">
-                                        <img src="public/accessori_group_files/google-stars.png" alt="google_stars">
+                                        <img src="public/accessori_type/google-stars.png" alt="google_stars">
                                     </span>
                             (in base alle <span itemprop="votes">7982</span> valutazioni) : le recensioni dei clienti
                             basate sui dati raccolti da <a class="google-review"
@@ -1809,7 +1696,7 @@
                     <br>
                     <div id="tecdoc-copyright" style="font-size:10px;margin-bottom:16px;color:#fff;overflow: auto;">
                         <div id="tecdoc-image" style="width:16%;float:left;padding:0 15px;">
-                            <img src="public/accessori_group_files/tecdoc.png" alt="TecDoc" style="vertical-align: middle;">
+                            <img src="public/accessori_type/tecdoc.png" alt="TecDoc" style="vertical-align: middle;">
                         </div>
                         <div id="tecdoc-content" style="text-align:left;float: left;width:77%; padding: 0 15px;">
                             I dati qui visualizzati, in particolare tutta la banca dati, non possono essere copiati.
@@ -1822,7 +1709,7 @@
                     <div class="link-bottom">
                         <a href="https://dipacommerce.it/cgv.html" class="simpl">CGV</a> -
                         <a href="https://dipacommerce.it/privacy-policy/" class="simpl">Informativa privacy</a> -
-                        2007 - 2019 © Mister Auto<br>
+                        2007 - 2019 © Dipacommerce<br>
                         <small class="clr_gray">I Marchi riportati in questo Sito sono di proprietà esclusiva delle case
                             automobilistiche e vengono qui utilizzati per favorire la ricerca dei ricambi ai Clienti
                         </small>
@@ -1935,13 +1822,10 @@
         <a id="fancybox-close"></a>
         <div id="fancybox-title"></div>
         <a href="javascript:" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a
-            href="javascript:" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a>
-    </div>
+            href="javascript:" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div>
 </div>
-<iframe name="easyXDM_default6545_provider" id="easyXDM_default6545_provider" src="public/accessori_group_files/cookie.html"
+<iframe name="easyXDM_default107_provider" id="easyXDM_default107_provider" src="public/accessori_type/cookie.html"
         frameborder="0" style="position: absolute; top: -2000px; left: 0px;"></iframe>
-<div class="widget" __jx__id="___$_1"
-     style="position: absolute; visibility: hidden; margin: 0px; padding: 0px; border: 0px; height: 0px; width: 0px;"></div>
 <script type="text/javascript"
         id="">window.antvoice_variable = JSON.parse(google_tag_manager["GTM-P9RFHN"].macro(52));</script>
 <script type="text/javascript" id="">function srEnsureReady(a) {
@@ -2004,10 +1888,10 @@
         product_generic: google_tag_manager["GTM-P9RFHN"].macro(70),
         client_status: google_tag_manager["GTM-P9RFHN"].macro(71)
     };</script>
-<div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.8849104515557098"><img
-            style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.6713976737853016" width="0"
-            height="0" alt="" src="public/accessori_group_files/0"></div>
-<iframe title="Box without important information" src="public/accessori_group_files/storage.html"
+<div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.5448225971480474"><img
+        style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon0.6464539245399359" width="0"
+        height="0" alt="" src="public/accessori_type/0"></div>
+<iframe title="Box without important information" src="public/accessori_type/storage.html"
         style="display: none; width: 1px; height: 1px; border: 0px;"></iframe>
 <div id="idz-root" style="flex: 0 1 auto; display: block;"></div>
 </body>
