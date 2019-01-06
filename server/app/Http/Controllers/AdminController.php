@@ -201,6 +201,11 @@ class AdminController extends Controller
 
         $id = $request->get('del-id');
 
+        $groupBelongToType = ZGroups::where('id_type', $id)->get();
+        if(count($groupBelongToType) > 0) {
+            return view('admin.types', ['types' => $this->getTypes(), 'message' => Messages::fk_type()]);
+        }
+
         $queryTypes = ZTypes::where('id', $id);
         $itemGetTypeByCode = $queryTypes->first();
 

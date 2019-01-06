@@ -12,14 +12,18 @@ class Messages {
 
     // Group Item
     public static function fk_group_item() {
-        return new Message(5, "Please delete all item belongs to group_item and try again");
+        return new Message(6, "Please delete all item belongs to group_item and try again");
     }
 
     // Group
     public static function fk_group() {
-        return new Message(4, "Please delete all group_item belongs to group and try again");
+        return new Message(5, "Please delete all group_item belongs to group and try again");
     }
 
+    // Type
+    public static function fk_type() {
+        return new Message(4, "Please delete all group_item belongs to group and try again");
+    }
     // Type
     public static function code_exist() {
         return new Message(3, "The code has been duplicated");

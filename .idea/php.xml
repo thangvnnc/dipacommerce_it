@@ -89,6 +89,7 @@
       <path value="$PROJECT_DIR$/server/vendor/phpunit/php-timer" />
       <path value="$PROJECT_DIR$/server/vendor/phpunit/php-token-stream" />
       <path value="$PROJECT_DIR$/server/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/server/vendor/intervention/image" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
