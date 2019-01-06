@@ -368,6 +368,11 @@ class AdminController extends Controller
 
         $id = $request->get('del-id');
 
+        $itemsBelongToGroupItem = ZItems::where('id_group_item', $id)->get();
+        if(count($itemsBelongToGroupItem) > 0) {
+            return view('admin.items', ['group_items' => $this->getGroupItems(), 'items' => $this->getItems(), 'message' => Messages::fk_group_item()]);
+        }
+
         $queryGroupItems = ZGroupItems::where('id', $id);
         $itemGetGroupItemByCode = $queryGroupItems->first();
         $itemGetGroupItemByCode->delete();
@@ -507,10 +512,6 @@ class AdminController extends Controller
 
         $id = $request->get('del-id');
 
-        $itemsBelongToGroupItem = ZItems::where('id_group_item', $id)->get();
-        if(count($itemsBelongToGroupItem) > 0) {
-            return view('admin.items', ['group_items' => $this->getGroupItems(), 'items' => $this->getItems(), 'message' => Messages::fk_group_item()]);
-        }
 
         $queryItems = ZItems::where('id', $id);
         $itemGetItemByCode = $queryItems->first();
