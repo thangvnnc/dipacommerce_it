@@ -22,7 +22,7 @@ class Messages {
 
     // Type
     public static function fk_type() {
-        return new Message(4, "Please delete all group_item belongs to group and try again");
+        return new Message(4, "Please delete all group belongs to type and try again");
     }
     // Type
     public static function code_exist() {
