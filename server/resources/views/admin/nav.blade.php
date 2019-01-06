@@ -36,9 +36,9 @@
                 <li>
                     <a href="/admin/home"><i class="fa fa-table fa-fw"></i> Home</a>
                 </li>
-                <li>
-                    <a href="/admin/menus"><i class="fa fa-table fa-fw"></i> Menus</a>
-                </li>
+                {{--<li>--}}
+                    {{--<a href="/admin/menus"><i class="fa fa-table fa-fw"></i> Menus</a>--}}
+                {{--</li>--}}
                 <li>
                     <a href="/admin/types"><i class="fa fa-table fa-fw"></i> Types</a>
                 </li>

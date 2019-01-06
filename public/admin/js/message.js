@@ -1,11 +1,16 @@
-
-
 // Login message
 let usernameRequired = 'Username is valid';
 let passwordRequired = 'Password is valid';
 
 
 // common
+let nameRequired = "Name is required field";
+let contentRequired = "Content is required field";
+let codeRequired = "Code is required field";
+let typeRequired = "Belongs to is required";
+let statusRequired = "Status to is required";
+let imageRequired = "Please select the image!";
+
 let regex = /^[a-zA-Z0-9.\-_$@*!]{6,30}$/;
 let currentTime = new Date().getTime();
 let nameAlerModel = "c_" + currentTime;
